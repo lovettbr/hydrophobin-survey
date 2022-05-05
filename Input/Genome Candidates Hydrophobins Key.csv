@@ -1,0 +1,53 @@
+﻿Abbreviation,Kingdom,Phylum,Species,Lifestyle,Host,Niche,Strain,Genome accession,Source
+CIM,Fungi,Ascomycota,Coccidioides immitis,Human pathogen,Human,Pathogen,RS,GCA_000149335.2,NCBI
+CPA,Fungi,Ascomycota,Cryphonectria_parasitica,Plant pathogen,Plant,Pathogen,EP155,GCA_011745365.1,NCBI
+DDI,Outgroup,Amoebozoa,Dictyostelium discoideum,Slime mold,NA,Saprotroph,AX4,GCA_000004695.1,NCBI
+EFE,Fungi,Ascomycota,Epichloe_festucae,plant endophyte,Plant,Mutualist,Fl1,GCA_003814445.1,NCBI
+ENE,Fungi,Ascomycota,Erysiphe necator,Plant pathogen,Plant,Pathogen,c,https://mycocosm.jgi.doe.gov/Erynec1/Erynec1.home.html,JGI
+FAL,Outgroup,Amoebozoa,Fonticula alba,Slime mold,NA,Saprotroph,ATCC 38817,GCA_000388065.2,NCBI
+FFL,Fungi,Ascomycota,Fusarium floridanum,Insect mutualist,Insect,Mutualist,NRRL62606,GCA_003947005.1,NCBI
+FOL,Fungi,Ascomycota,Fusarium oligoseptatum,Insect mutualist,Insect,Mutualist,AF-4,GCA_003947005.1,NCBI
+KPA,Fungi,Ascomycota,Komagataella pastoris,Pichia renamed,NA,Yeast,ATCC 28485,GCA_001708105.1,NCBI
+PFA,Outgroup,Apicomplexa,Plasmodium falciparum,Human parasite,Human,Parasite,3D7,GCA_000002765.3,NCBI
+SCE,Fungi,Ascomycota,Saccharomyces cerevisiae,Brewer's yeast,NA,Yeast,S288C,GCA_000146045.2,NCBI
+SCO,Outgroup,Bacteria,Streptomyces coelicolor,Bacteria with chaplins,NA,Saprotroph,A3(2),GCA_000203835.1,NCBI
+NCR,Fungi,Ascomycota,Neurospora crassa,Model filamentous fungus,NA,Saprotroph,OR74A,GCA_000182925.2,NCBI
+PJI,Fungi,Ascomycota,Pneumocystis jirovecii,Human pathogen,Human,Pathogen,RU7,GCA_001477535.1,NCBI
+VNO,Fungi,Ascomycota,Verticillium nonalfalfae,Plant pathogen,Plant,Pathogen,VnAa140/NRRL 66861,GCA_003724135.2,NCBI
+ASP,Fungi,Basidiomycota,Athelia (Fibularhizoctonia) sp. ,Insect egg mimic,Insect,Parasite,TMB,GCA_014898675.1,NCBI
+CQU,Fungi,Basidiomycota,Cronartium quercuum f. sp. fusiforme,Plant pathogen,Plant,Pathogen,G11,GCA_015951145.1,NCBI
+CNE,Fungi,Basidiomycota,Cryptococcus neoformans,Human pathogen,Human,Pathogen,JEC21,GCA_000091045.1,NCBI
+FPI,Fungi,Basidiomycota,Fomitopsis_pinicola,Plant pathogen,Plant,Pathogen,FP-58527 SS1,GCA_000344655.2,NCBI
+LGO,Fungi,Basidiomycota,Leucoagaricus gongylophorus,Insect mutualist,Insect,Mutualist,AS2,https://mycocosm.jgi.doe.gov/LeugonAS2_1/LeugonAS2_1.home.html,JGI
+PGR,Fungi,Basidiomycota,Puccinia graminis f. sp. tritici,Plant pathogen,Plant,Pathogen,CRL 75-36-700-3,GCA_000149925.1,NCBI
+SST,Fungi,Basidiomycota,Sphaerobolus_stellatus,saprotroph,NA,Saprotroph,SS14,GCA_000827215.1,NCBI
+TMA,Fungi,Basidiomycota,Tricholoma_matsutake,mycorrhizal,Plant,Mutualist,945,GCA_014904895.1,NCBI
+UMA,Fungi,Basidiomycota,Ustilago maydis,Plant pathogen,Plant,Pathogen,521,GCA_000328475.2,NCBI
+AMA,Fungi,Blastocladiomycota,Allomyces macrogynus,Chytrid,NA,Saprotroph,ATCC 38327,GCA_000151295.1,NCBI
+BDE,Fungi,Chytridiomycota,Batrachochytrium dendrobatidis,Animal pathogen - chytridiomycosis in amphibians,Animal,Pathogen,JAM81,GCA_000203795.1,NCBI
+PRU,Fungi,Chytridiomycota,Pecoramyces ruminatium,Formerly Orpinomyces,Animal,Mutualist,C1A,https://mycocosm.jgi.doe.gov/Orpsp1_1/Orpsp1_1.home.html,JGI
+SPU,Fungi,Chytridiomycota,Spizellomyces punctatus,Chytrid,NA,Saprotroph,DAOM BR117 v1,GCA_000182565.2,NCBI
+PSA,Fungi,Cryptomycota,Paramicrosporidium saccamoebae,Cryptomycota - intracellular parasite,Amoeba,Parasite,KSL3,GCA_002794465.1,NCBI
+RAL,Fungi,Cryptomycota,Rozella allomycis,Cryptomycota - intracellular parasite,Fungi,Parasite,CSF55,GCA_000442015.1,NCBI
+ECU,Fungi,Microsporidia,Encephalitozoon cuniculi,Animal pathogen,Animal,Pathogen,GB-M1,GCA_000091225.1,NCBI
+AAM,Fungi,Mucoromycota,Actinomortierella ambigua,Millipede associated,Arthropod,Mutualist,BC1065,GCA_016098155.1,NCBI
+NSP,Fungi,Mucoromycota,Neoapophysomyces,Millipede associated,Arthropod,Mutualist,BC1015,GCA_016097715.1,NCBI
+RIR,Fungi,Mucoromycota,Rhizophagus irregularis,Mycorrhizal,Plant,Mutualist,DAOM 181602,GCA_000439145.3,NCBI
+RMI,Fungi,Mucoromycota,Rhizopus microsporus var microsporus,Mycorrhizal,Plant,Mutualist,ATCC 52813,GCA_002708625.1,NCBI
+URA,Fungi,Mucoromycota,Umbelopsis ramanniana,Saprotroph,NA,Saprotroph,NRRL 5844 (AGv1),http://genome.jgi.doe.gov/Umbra1,JGI
+BME,Fungi,Zoopagomycota,Basidiobolus meristosporus,Saprotroph,NA,Saprotroph,CBS 931.73 ,GCA_002104905.1,NCBI
+CRE,Fungi,Zoopagomycota,Coemansia reversa,Kickxellomycotina,NA,Saprotroph,NRRL 1564,GCA_002705745.1,NCBI
+CTH,Fungi,Zoopagomycota,Conidiobolus thromboides,Insect pathogen,Insect,Pathogen,FSU 785 (Also FSU 715),http://genome.jgi.doe.gov/Conth1,JGI
+EMU,Fungi,Zoopagomycota,Entomophthora muscae,Insect pathogen,Insect,Pathogen,Berkeley,GCA_014839935.1,NCBI
+MCI,Fungi,Zoopagomycota,Massospora cicadina,Insect pathogen,Insect,Pathogen,MCPNR19,GCA_022478985.1,NCBI
+PCY,Fungi,Zoopagomycota,Piptocephalis cylindrospora,Mycoparasite,Fungi,Parasite,RSA 2659,GCA_003614145.1,NCBI
+POR,Fungi,Ascomycota,Pyricularia oryzae,Plant pathogen (Magnaporthe oryzae),Plant,Pathogen,70-15,GCA_000002495.2,NCBI
+THA,Fungi,Ascomycota,Trichoderma harzianum,Antagonistic to plant pathogens,Plant,Mutualist,CBS 226.95,GCA_003025095.1,NCBI
+OCA,Fungi,Ascomycota,Ophiocordyceps camponoti-floridani,Insect pathogen,Insect,Pathogen,EC05,GCA_012980515.1,NCBI
+PEF,Outgroup,Oomycota ,Peronospora effusa,Plant pathogen,Plant,Pathogen,R13,GCA_003843895.1,NCBI
+PIN,Outgroup,Oomycota ,Phytophthora infestans,Plant pathogen,Plant,Pathogen,T30-4,GCA_000142945.1,NCBI
+CMI,Fungi,Ascomycota,Cordyceps militaris,Insect pathogen,Insect,Pathogen,CMI01,GCA_000225605.1,NCBI
+MAN,Fungi,Ascomycota,Metarhizium anisopliae,Insect pathogen,Insect,Pathogen,ARSEF 549,GCA_000814975.1,NCBI
+CAL,Fungi,Ascomycota,Candida albicans,Human pathogen,Human,Pathogen,SC5314,GCA_000182965.3,NCBI
+CMA,Fungi,Ascomycota,Corollospora maritima ,Marine fungus,NA,Saprotroph,CBS 119819,https://mycocosm.jgi.doe.gov/Corma2/Corma2.home.html,JGI
+MAC,Outgroup,Archaea,Methanosarcina acetivorans,Multicellular archaean,NA,Methanogen,C2A,GCA_000007345.1,NCBI

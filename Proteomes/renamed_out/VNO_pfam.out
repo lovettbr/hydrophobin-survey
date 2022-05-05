@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+VNO_XP_028493055.1   -          Hydrophobin_2        PF06766.12   1.7e-27   94.3   9.8   2.1e-27   94.0   9.8   1.1   1   0   0   1   1   1   1 Fungal hydrophobin [Verticillium nonalfalfae]
+VNO_XP_028491998.1   -          Hydrophobin_2        PF06766.12   1.3e-25   88.2  11.0   1.6e-25   87.9  11.0   1.1   1   0   0   1   1   1   1 uncharacterized protein D7B24_001305 [Verticillium nonalfalfae]
+VNO_XP_028496519.1   -          Hydrophobin_2        PF06766.12   1.9e-25   87.7  11.7   2.4e-25   87.3  11.7   1.1   1   0   0   1   1   1   1 Fungal hydrophobin [Verticillium nonalfalfae]
+VNO_XP_028493066.1   -          Hydrophobin_2        PF06766.12   8.3e-25   85.6  12.1   1.1e-24   85.2  12.1   1.2   1   0   0   1   1   1   1 uncharacterized protein D7B24_009288 [Verticillium nonalfalfae]
+VNO_XP_028497054.1   -          Hydrophobin_2        PF06766.12   1.3e-17   62.6   8.1   1.7e-17   62.2   8.1   1.2   1   0   0   1   1   1   1 Fungal hydrophobin [Verticillium nonalfalfae]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Profiles/Hydrophobins.hmm
+# Target file:     renamed/VNO.faa
+# Option settings: hmmsearch --tblout renamed_out/VNO_pfam.out ../Profiles/Hydrophobins.hmm renamed/VNO.faa 
+# Current dir:     /Users/brianlovett/Desktop/Hydrophobin Survey/Proteomes
+# Date:            Tue Mar 22 10:09:45 2022
+# [ok]

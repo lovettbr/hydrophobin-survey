@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+VNO_XP_028493055.1   -          Hydrophobin_2        PF06766.12   4.4e-30   94.3   9.8   5.5e-30   94.0   9.8   1.1   1   0   0   1   1   1   1 -
+VNO_XP_028491998.1   -          Hydrophobin_2        PF06766.12   3.5e-28   88.2  11.0   4.4e-28   87.9  11.0   1.1   1   0   0   1   1   1   1 -
+VNO_XP_028496519.1   -          Hydrophobin_2        PF06766.12   4.9e-28   87.7  11.7   6.4e-28   87.3  11.7   1.1   1   0   0   1   1   1   1 -
+VNO_XP_028493066.1   -          Hydrophobin_2        PF06766.12   2.2e-27   85.6  12.1     3e-27   85.2  12.1   1.2   1   0   0   1   1   1   1 -
+VNO_XP_028497054.1   -          Hydrophobin_2        PF06766.12   3.4e-20   62.6   8.1   4.4e-20   62.2   8.1   1.2   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Profiles/Hydrophobins.hmm
+# Target file:     renamed/Hyd_candidates_VNO.faa
+# Option settings: hmmsearch --tblout renamed_out/Hyd_candidates_VNO_pfam.out ../Profiles/Hydrophobins.hmm renamed/Hyd_candidates_VNO.faa 
+# Current dir:     /Users/brianlovett/Desktop/Hydrophobin Survey/Proteomes
+# Date:            Tue Mar 22 10:09:40 2022
+# [ok]

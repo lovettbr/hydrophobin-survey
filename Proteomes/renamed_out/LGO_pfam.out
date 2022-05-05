@@ -1,0 +1,30 @@
+#                                                                                                                      --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                                               accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                                       ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LGO_jgi|LeugonAS2_1|718679|CE718678_13649                                   -          Hydrophobin          PF01185.19   1.5e-23   82.8   7.2   1.8e-23   82.5   7.2   1.1   1   0   0   1   1   1   1 -
+LGO_jgi|LeugonAS2_1|2142293|fgenesh1_pg.110_#_10                            -          Hydrophobin          PF01185.19   2.7e-23   82.0   7.8   3.1e-23   81.7   7.8   1.1   1   0   0   1   1   1   1 -
+LGO_jgi|LeugonAS2_1|1852652|e_gw1.157.19.1                                  -          Hydrophobin          PF01185.19   1.1e-17   64.0   8.6   1.4e-17   63.7   8.6   1.1   1   0   0   1   1   1   1 -
+LGO_jgi|LeugonAS2_1|591107|CE591106_178308                                  -          Hydrophobin          PF01185.19   2.2e-16   59.8  10.1   3.4e-16   59.2  10.1   1.3   1   0   0   1   1   1   1 -
+LGO_jgi|LeugonAS2_1|852456|CE852455_197                                     -          Hydrophobin          PF01185.19   1.9e-15   56.8   7.1   2.4e-15   56.5   7.1   1.1   1   0   0   1   1   1   1 -
+LGO_jgi|LeugonAS2_1|1862752|e_gw1.426.1.1                                   -          Hydrophobin          PF01185.19   3.1e-15   56.1   7.1   3.7e-15   55.9   7.1   1.1   1   0   0   1   1   1   1 -
+LGO_jgi|LeugonAS2_1|846020|CE846019_331                                     -          Hydrophobin          PF01185.19   3.1e-15   56.1   7.1   3.7e-15   55.9   7.1   1.1   1   0   0   1   1   1   1 -
+LGO_jgi|LeugonAS2_1|2032297|fgenesh1_kg.442_#_89_#_TRINITY_DN8821_c2_g4_i1  -          Hydrophobin          PF01185.19   1.7e-11   44.2   7.5   2.3e-11   43.7   7.5   1.2   1   0   0   1   1   1   1 -
+LGO_jgi|LeugonAS2_1|2001406|fgenesh1_kg.266_#_90_#_TRINITY_DN5968_c0_g1_i4  -          Hydrophobin          PF01185.19   7.4e-11   42.1   0.3     1e-10   41.6   0.3   1.2   1   0   0   1   1   1   1 -
+LGO_jgi|LeugonAS2_1|1926703|fgenesh1_kg.13_#_241_#_TRINITY_DN4965_c1_g2_i2  -          Hydrophobin          PF01185.19   1.7e-10   40.9   4.6   1.8e-10   40.9   4.6   1.0   1   0   0   1   1   1   1 -
+LGO_jgi|LeugonAS2_1|2001430|fgenesh1_kg.266_#_114_#_TRINITY_DN8814_c1_g2_i1 -          Hydrophobin          PF01185.19   3.7e-10   39.8   0.4   4.1e-10   39.7   0.4   1.1   1   0   0   1   1   1   1 -
+LGO_jgi|LeugonAS2_1|1926696|fgenesh1_kg.13_#_234_#_TRINITY_DN8821_c2_g2_i1  -          Hydrophobin          PF01185.19   1.4e-08   34.8   3.7   1.5e-08   34.7   3.7   1.0   1   0   0   1   1   1   1 -
+LGO_jgi|LeugonAS2_1|1934362|fgenesh1_kg.29_#_380_#_TRINITY_DN7585_c0_g3_i2  -          Hydrophobin          PF01185.19   2.6e-08   33.9   8.5   1.8e-06   28.0   8.5   2.1   1   1   0   1   1   1   1 -
+LGO_jgi|LeugonAS2_1|2032289|fgenesh1_kg.442_#_81_#_TRINITY_DN8821_c2_g4_i1  -          Hydrophobin          PF01185.19   3.5e-05   23.9   0.6   0.00017   21.7   0.5   2.0   1   1   0   1   1   1   1 -
+LGO_jgi|LeugonAS2_1|2020602|fgenesh1_kg.369_#_75_#_TRINITY_DN8651_c2_g5_i1  -          Hydrophobin          PF01185.19    0.0002   21.5   0.4   0.00028   21.0   0.4   1.3   1   0   0   1   1   1   1 -
+LGO_jgi|LeugonAS2_1|1931514|fgenesh1_kg.22_#_214_#_TRINITY_DN8651_c2_g5_i1  -          Hydrophobin          PF01185.19    0.0015   18.7   1.0    0.0021   18.2   1.0   1.3   1   0   0   1   1   1   1 -
+LGO_jgi|LeugonAS2_1|2140035|fgenesh1_pg.22_#_14                             -          Hydrophobin          PF01185.19    0.0063   16.7   1.0     0.008   16.4   1.0   1.2   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Profiles/Hydrophobins.hmm
+# Target file:     renamed/LGO.faa
+# Option settings: hmmsearch --tblout renamed_out/LGO_pfam.out ../Profiles/Hydrophobins.hmm renamed/LGO.faa 
+# Current dir:     /Users/brianlovett/Desktop/Hydrophobin Survey/Proteomes
+# Date:            Tue Mar 22 10:09:40 2022
+# [ok]

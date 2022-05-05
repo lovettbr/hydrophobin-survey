@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+OCA_KAF4582875.1     -          Hydrophobin          PF01185.19   1.5e-06   19.7  11.6   6.3e-05   14.5  12.2   2.1   1   1   1   2   2   2   2 -
+OCA_KAF4595874.1     -          Hydrophobin          PF01185.19     1e-05   17.0   3.4     1e-05   17.0   3.4   2.2   1   1   2   3   3   3   1 -
+OCA_KAF4594860.1     -          Hydrophobin_2        PF06766.12   4.2e-31   97.7   9.1   5.2e-31   97.4   9.1   1.1   1   0   0   1   1   1   1 -
+OCA_KAF4594605.1     -          Hydrophobin_2        PF06766.12   1.1e-06   19.4   8.2   2.4e-06   18.3   8.2   1.6   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Profiles/Hydrophobins.hmm
+# Target file:     renamed/Hyd_candidates_OCA.faa
+# Option settings: hmmsearch --tblout renamed_out/Hyd_candidates_OCA_pfam.out ../Profiles/Hydrophobins.hmm renamed/Hyd_candidates_OCA.faa 
+# Current dir:     /Users/brianlovett/Desktop/Hydrophobin Survey/Proteomes
+# Date:            Tue Mar 22 10:09:39 2022
+# [ok]

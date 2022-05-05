@@ -1,0 +1,13 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Profiles/Hydrophobins.hmm
+# Target file:     renamed/PRU.faa
+# Option settings: hmmsearch --tblout renamed_out/PRU_pfam.out ../Profiles/Hydrophobins.hmm renamed/PRU.faa 
+# Current dir:     /Users/brianlovett/Desktop/Hydrophobin Survey/Proteomes
+# Date:            Tue Mar 22 10:09:42 2022
+# [ok]

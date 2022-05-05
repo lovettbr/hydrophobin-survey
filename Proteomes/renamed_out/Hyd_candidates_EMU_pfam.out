@@ -1,0 +1,14 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+EMU_KAF7747203.1     -          Hydrophobin          PF01185.19     0.025    6.6   8.6     0.095    4.7   2.5   2.9   2   1   0   2   2   2   0 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Profiles/Hydrophobins.hmm
+# Target file:     renamed/Hyd_candidates_EMU.faa
+# Option settings: hmmsearch --tblout renamed_out/Hyd_candidates_EMU_pfam.out ../Profiles/Hydrophobins.hmm renamed/Hyd_candidates_EMU.faa 
+# Current dir:     /Users/brianlovett/Desktop/Hydrophobin Survey/Proteomes
+# Date:            Tue Mar 22 10:09:39 2022
+# [ok]

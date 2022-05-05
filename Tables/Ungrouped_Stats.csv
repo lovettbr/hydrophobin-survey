@@ -1,0 +1,566 @@
+"Accession","Phyla","Lifestyles","Hosts","Niches","Groups","Genomes","Predictions","avg_length","avg_C","Pfams","Pfams_n"
+"AAM_KAG0254093-1","Mucoromycota","Millipede associated","Arthropod","Mutualist","6C/NA/NA","AAM","Not",1576,16,"Ank, Ank_2, Ank_3, Ank_4, PK_Tyr_Ser-Thr, Pkinase",6
+"AAM_KAG0255110-1","Mucoromycota","Millipede associated","Arthropod","Mutualist","6C/NA/NA","AAM","Secreted",567,10,"DUF5948, STELLO",2
+"AAM_KAG0259609-1","Mucoromycota","Millipede associated","Arthropod","Mutualist","6C/NA/NA","AAM","Not",1050,16,"Dicty_REP, Ank_4, F-box, F-box_4, F-box-like",5
+"AAM_KAG0265510-1","Mucoromycota","Millipede associated","Arthropod","Mutualist","6C/NA/NA","AAM","Not",417,7,"DUF4203",1
+"AAM_KAG0266782-1","Mucoromycota","Millipede associated","Arthropod","Mutualist","6C/NA/NA","AAM","Not",1467,17,"3Beta_HSD, AMP-binding, AMP-binding_C, Condensation, Epimerase, GDP_Man_Dehyd, NAD_binding_4, PP-binding",8
+"AAM_KAG0269345-1","Mucoromycota","Millipede associated","Arthropod","Mutualist","6C/NA/NA","AAM","Not",844,21,"ANAPC15, SDA1, F-box, F-box-like, Cwf_Cwc_15, RXT2_N",6
+"AAM_KAG0269426-1","Mucoromycota","Millipede associated","Arthropod","Mutualist","6C/NA/NA","AAM","Not",1919,13,"Ints3_N",1
+"AAM_KAG0269909-1","Mucoromycota","Millipede associated","Arthropod","Mutualist","6C/NA/NA","AAM","Not",421,12,"BATS, Radical_SAM",2
+"AAM_KAG0270168-1","Mucoromycota","Millipede associated","Arthropod","Mutualist","6C/NA/NA","AAM","Secreted",85,10,NA,0
+"AMA_KNE56460-1","Blastocladiomycota","Chytrid",NA,"Saprotroph","6C/NA/NA","AMA","Not",466,8,"TPR_1, TPR_14, TPR_16, TPR_2, ANAPC3, FKBP_C, TPR_12, TPR_17, TPR_19, TPR_6, TPR_9",11
+"AMA_KNE63000-1","Blastocladiomycota","Chytrid",NA,"Saprotroph","6C/NA/NA","AMA","Not",768,9,"SR-25",1
+"AMA_KNE64010-1","Blastocladiomycota","Chytrid",NA,"Saprotroph","6C/NA/NA","AMA","Not",896,30,"Fungal_trans, SirB, Zn_clus",3
+"AMA_KNE65319-1","Blastocladiomycota","Chytrid",NA,"Saprotroph","6C/NA/NA","AMA","Not",519,19,"Diphthamide_syn",1
+"AMA_KNE66441-1","Blastocladiomycota","Chytrid",NA,"Saprotroph","6C/NA/NA","AMA","Not",134,8,NA,0
+"AMA_KNE67274-1","Blastocladiomycota","Chytrid",NA,"Saprotroph","6C/NA/NA","AMA","Not",611,18,"LRR_1, LRR_6, FNIP",3
+"AMA_KNE69454-1","Blastocladiomycota","Chytrid",NA,"Saprotroph","6C/NA/NA","AMA","Not",481,15,"ABC1, APH, Kinase-like, PK_Tyr_Ser-Thr, Pkinase, Pkinase_fungal, Pox_ser-thr_kin",7
+"ASP_KAF7966275-1","Basidiomycota","Insect egg mimic","Insect","Parasite","6C/NA/NA","ASP","Not",347,11,"BTB",1
+"ASP_KAF7966465-1","Basidiomycota","Insect egg mimic","Insect","Parasite","6C/NA/NA","ASP","Not",214,8,NA,0
+"ASP_KAF7968656-1","Basidiomycota","Insect egg mimic","Insect","Parasite","6C/NA/NA","ASP","Not",1190,8,NA,0
+"ASP_KAF7974587-1","Basidiomycota","Insect egg mimic","Insect","Parasite","6C/NA/NA","ASP","Not",116,8,NA,0
+"ASP_KAF7977175-1","Basidiomycota","Insect egg mimic","Insect","Parasite","6C/NA/NA","ASP","Not",1257,22,"TPR_1, TPR_14, TPR_16, TPR_2, ANAPC3, TPR_12, TPR_17, TPR_19, TPR_6, AAA_16, AAA_5, DAP3, DUF1897, DUF2989, DUF6483, MIT, NACHT, NB-ARC, PPR, RNPP_C, RPN6_N, RPN7, TPR_10, TPR_11, TPR_20, TPR_3, TPR_4, TPR_5, TPR_7, TPR_8, TPR_MalT, Wzy_C_2",32
+"ASP_KAF7982086-1","Basidiomycota","Insect egg mimic","Insect","Parasite","6C/NA/NA","ASP","Not",463,12,"NB-ARC, Ras, Roc, RsgA_GTPase",4
+"ASP_KAF7984636-1","Basidiomycota","Insect egg mimic","Insect","Parasite","6C/NA/NA","ASP","Not",443,14,NA,0
+"ASP_KAF7984730-1","Basidiomycota","Insect egg mimic","Insect","Parasite","6C/NA/NA","ASP","Not",231,6,NA,0
+"BDE_XP_006675710-1","Chytridiomycota","Animal pathogen - chytridiomycosis in amphibians","Animal","Pathogen","6C/NA/NA","BDE","Not",1685,24,"S1-like",1
+"BDE_XP_006677255-1","Chytridiomycota","Animal pathogen - chytridiomycosis in amphibians","Animal","Pathogen","6C/NA/NA","BDE","Not",1002,24,"ANAPC4_WD40",1
+"BDE_XP_006678447-1","Chytridiomycota","Animal pathogen - chytridiomycosis in amphibians","Animal","Pathogen","6C/NA/NA","BDE","Not",456,11,"Arrestin_N",1
+"BDE_XP_006679657-1","Chytridiomycota","Animal pathogen - chytridiomycosis in amphibians","Animal","Pathogen","6C/NA/NA","BDE","Not",415,8,"MARVEL",1
+"BDE_XP_006680002-1","Chytridiomycota","Animal pathogen - chytridiomycosis in amphibians","Animal","Pathogen","6C/NA/NA","BDE","Not",694,27,"FYVE, FYVE_2, PH, PH_13, PI3K_P85_iSH2, Prokineticin, RhoGEF",7
+"BDE_XP_006680357-1","Chytridiomycota","Animal pathogen - chytridiomycosis in amphibians","Animal","Pathogen","6C/NA/NA","BDE","Not",1187,31,"TPR_14, TPR_2, ANAPC3, TPR_12, TPR_6, TPR_7, ANAPC4_WD40, Clathrin, Coatomer_WDAD, PHTB1_N, WD40",11
+"BDE_XP_006680710-1","Chytridiomycota","Animal pathogen - chytridiomycosis in amphibians","Animal","Pathogen","6C/NA/NA","BDE","Secreted",409,22,"Chitin_bind_1, Polysacc_deac_1",2
+"BDE_XP_006681163-1","Chytridiomycota","Animal pathogen - chytridiomycosis in amphibians","Animal","Pathogen","6C/NA/NA","BDE","Not",1991,23,"Chromo, DEAD, HDA2-3, Helicase_C, Myb_DNA-binding, ResIII, SNF2-rel_dom, ToxN_toxin",8
+"BME_ORX65011-1","Zoopagomycota","Saprotroph",NA,"Saprotroph","6C/NA/NA","BME","Not",106,6,"MTCP1",1
+"BME_ORX77066-1","Zoopagomycota","Saprotroph",NA,"Saprotroph","6C/NA/NA","BME","Not",321,13,"PRiA4_ORF3",1
+"BME_ORX80292-1","Zoopagomycota","Saprotroph",NA,"Saprotroph","6C/NA/NA","BME","Not",422,20,"Auto_anti-p27, eIF-5_eIF-2B, GATA, Prim_Zn_Ribbon, TF_Zn_Ribbon, zf-RRN7, Zn-ribbon_8",7
+"BME_ORX89384-1","Zoopagomycota","Saprotroph",NA,"Saprotroph","6C/NA/NA","BME","Not",334,10,"bZIP_1, bZIP_2, eIF3h_C, G6PD_N, UPF0242, ZapB",6
+"BME_ORX89632-1","Zoopagomycota","Saprotroph",NA,"Saprotroph","6C/NA/NA","BME","Not",1564,24,"AMP-binding, AMP-binding_C, PP-binding, Hexapep, Hexapep_2",5
+"BME_ORX92391-1","Zoopagomycota","Saprotroph",NA,"Saprotroph","6C/NA/NA","BME","Not",662,32,NA,0
+"BME_ORX94271-1","Zoopagomycota","Saprotroph",NA,"Saprotroph","6C/NA/NA","BME","Not",542,11,"DUF5654, MFS_1",2
+"BME_ORX96874-1","Zoopagomycota","Saprotroph",NA,"Saprotroph","6C/NA/NA","BME","Not",505,11,"DUF2235",1
+"BME_ORX97418-1","Zoopagomycota","Saprotroph",NA,"Saprotroph","6C/NA/NA","BME","Not",352,6,"AAA_16, AAA, AAA_22, AAA_24, ABC_tran, DNA_pol3_delta, DNA_pol3_delta2, DUF2075, Rad17, Rep_fac_C, Sigma54_activ_2",11
+"BME_ORY01541-1","Zoopagomycota","Saprotroph",NA,"Saprotroph","6C/NA/NA","BME","Not",2335,38,"Arm, Atx10homo_assoc, CDC14, DUF4704, HOATZ-like, Laminin_G_3, MOR2-PAG1_C",7
+"BME_ORY02122-1","Zoopagomycota","Saprotroph",NA,"Saprotroph","6C/NA/NA","BME","Not",420,7,"O-FucT",1
+"BME_ORY07120-1","Zoopagomycota","Saprotroph",NA,"Saprotroph","6C/NA/NA","BME","Not",322,12,"TgpA_N, DUF2070, DUF3149, DUF4271, DUF6044, ECF-ribofla_trS, LNT_N, MHYT, PIG-F, S_4TM, Spo7",11
+"BME_ORY07591-1","Zoopagomycota","Saprotroph",NA,"Saprotroph","6C/NA/NA","BME","Not",617,37,"CUE, DUF2530",2
+"CAL_XP_715565-1","Ascomycota","Human pathogen","Human","Pathogen","6C/NA/NA","CAL","Secreted",236,13,"DB, DUF4923, FAM110_N, FeoB_Cyto, Glycohydro_20b2, MannoseP_isomer, UPF0231",7
+"CAL_XP_716031-2","Ascomycota","Human pathogen","Human","Pathogen","6C/NA/NA","CAL","Not",345,9,"WD40",1
+"CAL_XP_716044-2","Ascomycota","Human pathogen","Human","Pathogen","6C/NA/NA","CAL","Not",368,7,"7TMR-DISM_7TM, DMT_YdcZ, EamA",3
+"CAL_XP_716451-2","Ascomycota","Human pathogen","Human","Pathogen","6C/NA/NA","CAL","Not",482,21,"Zn_clus, COX_ARM, Fungal_trans_2",3
+"CAL_XP_719839-2","Ascomycota","Human pathogen","Human","Pathogen","6C/NA/NA","CAL","Not",415,11,"CarS-like, CcmD, DUF5831, Prominin, SUR7",5
+"CAL_XP_721399-1","Ascomycota","Human pathogen","Human","Pathogen","6C/NA/NA","CAL","Not",659,10,"Orf78, KCH",2
+"CIM_XP_001239597-2","Ascomycota","Human pathogen","Human","Pathogen","6C/NA/NA","CIM","Not",703,20,"Fungal_trans, Zn_clus",2
+"CIM_XP_001240177-1","Ascomycota","Human pathogen","Human","Pathogen","6C/NA/NA","CIM","Not",598,19,NA,0
+"CIM_XP_001240680-2","Ascomycota","Human pathogen","Human","Pathogen","6C/NA/NA","CIM","Secreted",214,11,"FAP",1
+"CIM_XP_001241651-2","Ascomycota","Human pathogen","Human","Pathogen","6C/NA/NA","CIM","Secreted",238,11,"SKG6",1
+"CIM_XP_001243407-1","Ascomycota","Human pathogen","Human","Pathogen","6C/NA/NA","CIM","Secreted",231,12,"ANAPC15, BUD22, DNA_pol_phi, DUF3073, DUF3245, DUF3246, DUF4611, PBP1_TM, PGA2, RRN3, SDA1, Sigma70_ner, Spt5_N, YL1",14
+"CIM_XP_001243627-2","Ascomycota","Human pathogen","Human","Pathogen","6C/NA/NA","CIM","Secreted",94,8,NA,0
+"CIM_XP_001244599-2","Ascomycota","Human pathogen","Human","Pathogen","6C/NA/NA","CIM","Not",219,8,NA,0
+"CIM_XP_001246119-2","Ascomycota","Human pathogen","Human","Pathogen","6C/NA/NA","CIM","Secreted",220,12,"DGF-1_C, Dicty_REP, DUF4769, DUF6535, KAR9, MGC-24, MSA-2c, VESA1_N",8
+"CIM_XP_001247513-2","Ascomycota","Human pathogen","Human","Pathogen","6C/NA/NA","CIM","Not",1836,18,"Ank, Ank_2, Ank_3, Ank_4, Ank_5, Phage_T7_Capsid, YfkD",7
+"CIM_XP_001248721-1","Ascomycota","Human pathogen","Human","Pathogen","6C/NA/NA","CIM","Secreted",220,12,NA,0
+"CIM_XP_001248725-1","Ascomycota","Human pathogen","Human","Pathogen","6C/NA/NA","CIM","Not",294,8,"Glyoxalase, Glyoxalase_6",2
+"CMA_jgi_Corma2_161367_CE161366_1091","Ascomycota","Marine fungus",NA,"Saprotroph","6C/NA/NA","CMA","Not",149,8,NA,0
+"CMA_jgi_Corma2_190015_CE190014_64","Ascomycota","Marine fungus",NA,"Saprotroph","6C/NA/NA","CMA","Not",136,8,NA,0
+"CMA_jgi_Corma2_195259_CE195258_1392","Ascomycota","Marine fungus",NA,"Saprotroph","6C/NA/NA","CMA","Not",397,20,"F-box, F-box-like, zf_C2H2_13",3
+"CMA_jgi_Corma2_245574_CE245573_4204","Ascomycota","Marine fungus",NA,"Saprotroph","6C/NA/NA","CMA","Not",618,18,"zf-C2H2, zf-C2H2_4, zf-H2C2_2, zf-met",4
+"CMA_jgi_Corma2_256807_CE256806_1154","Ascomycota","Marine fungus",NA,"Saprotroph","6C/NA/NA","CMA","Not",119,11,NA,0
+"CMA_jgi_Corma2_266982_CE266981_479","Ascomycota","Marine fungus",NA,"Saprotroph","6C/NA/NA","CMA","Not",74,6,NA,0
+"CMA_jgi_Corma2_51158_CE51157_118","Ascomycota","Marine fungus",NA,"Saprotroph","6C/NA/NA","CMA","Not",169,7,NA,0
+"CMA_jgi_Corma2_52288_CE52287_49","Ascomycota","Marine fungus",NA,"Saprotroph","6C/NA/NA","CMA","Not",244,12,NA,0
+"CMA_jgi_Corma2_600737_gw1-48-24-1","Ascomycota","Marine fungus",NA,"Saprotroph","6C/NA/NA","CMA","Secreted",108,10,"Granulin",1
+"CMA_jgi_Corma2_687337_fgenesh1_kg-3___135___Locus19217v1rpkm0-22","Ascomycota","Marine fungus",NA,"Saprotroph","6C/NA/NA","CMA","Secreted",66,10,NA,0
+"CMA_jgi_Corma2_688422_fgenesh1_kg-12___33___Locus3344v2rpkm25-42","Ascomycota","Marine fungus",NA,"Saprotroph","6C/NA/NA","CMA","Secreted",282,12,NA,0
+"CMA_jgi_Corma2_691639_fgenesh1_kg-46___70___Locus13985v1rpkm0-83","Ascomycota","Marine fungus",NA,"Saprotroph","6C/NA/NA","CMA","Not",939,24,NA,0
+"CMA_jgi_Corma2_694482_fgenesh1_kg-92___36___Locus8600v1rpkm5-63","Ascomycota","Marine fungus",NA,"Saprotroph","6C/NA/NA","CMA","Not",106,7,NA,0
+"CMA_jgi_Corma2_695956_fgenesh1_kg-122___29___Locus2613v2rpkm14-73","Ascomycota","Marine fungus",NA,"Saprotroph","6C/NA/NA","CMA","Not",727,17,"Peptidase_S9, PD40",2
+"CMA_jgi_Corma2_697290_fgenesh1_kg-157___29___Locus5645v2rpkm11-83","Ascomycota","Marine fungus",NA,"Saprotroph","6C/NA/NA","CMA","Not",1579,26,"Arm, DUF2428, Glucosamine_iso, HEAT, HEAT_2, HEAT_EZ, TetR_C_31",7
+"CMA_jgi_Corma2_70156_CE70155_2011","Ascomycota","Marine fungus",NA,"Saprotroph","6C/NA/NA","CMA","Secreted",209,10,NA,0
+"CMA_jgi_Corma2_710038_fgenesh1_pg-230___2","Ascomycota","Marine fungus",NA,"Saprotroph","6C/NA/NA","CMA","Not",696,10,"Mito_fiss_reg, SAD_SRA",2
+"CMA_jgi_Corma2_717811_fgenesh1_pm-224___1","Ascomycota","Marine fungus",NA,"Saprotroph","6C/NA/NA","CMA","Not",499,10,"MFS_1, Sugar_tr, TRI12",3
+"CMA_jgi_Corma2_72288_CE72287_434","Ascomycota","Marine fungus",NA,"Saprotroph","6C/NA/NA","CMA","Not",164,10,NA,0
+"CMA_jgi_Corma2_733600_estExt_fgenesh1_pg-C_3190010","Ascomycota","Marine fungus",NA,"Saprotroph","6C/NA/NA","CMA","Not",200,6,"Arteri_Gl",1
+"CMA_jgi_Corma2_768404_estExt_Genemark1-C_300028","Ascomycota","Marine fungus",NA,"Saprotroph","6C/NA/NA","CMA","Not",208,12,NA,0
+"CMA_jgi_Corma2_773723_estExt_Genemark1-C_2050004","Ascomycota","Marine fungus",NA,"Saprotroph","6C/NA/NA","CMA","Not",1149,17,"DEAD, Helicase_C, ResIII, SNF2-rel_dom, HIRAN, UBA_4, zf-C3HC4, zf-C3HC4_2, zf-C3HC4_3, zf-C3HC4_4, zf-RING_2, zf-RING_5, zf-RING_UBOX",13
+"CMI_XP_006667390-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","CMI","Secreted",168,8,NA,0
+"CMI_XP_006667720-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","CMI","Not",667,13,NA,0
+"CMI_XP_006667961-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","CMI","Secreted",236,10,"Granulin, DUF2650, FAM199X, Filament_head, MSP1_C, SPX",6
+"CMI_XP_006669244-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","CMI","Not",331,15,"N_Asn_amidohyd",1
+"CMI_XP_006670771-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","CMI","Secreted",89,8,NA,0
+"CMI_XP_006672043-1","Ascomycota","Insect pathogen","Insect","Pathogen","NA/NA/Hyd2","CMI","Not",81,4,"Hydrophobin_2, MTCP1, CHCH, COX17, GCK, Pet191_N",6
+"CMI_XP_006672063-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/Hyd1/NA","CMI","Secreted",138,8,"Hydrophobin",1
+"CMI_XP_006673461-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","CMI","Not",453,8,"MFS_1, MFS_1_like, MFS18",3
+"CMI_XP_006673590-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","CMI","Not",235,12,NA,0
+"CNE_XP_024512251-1","Basidiomycota","Human pathogen","Human","Pathogen","6C/NA/NA","CNE","Not",747,11,"zf-C3HC4_3",1
+"CNE_XP_024513104-1","Basidiomycota","Human pathogen","Human","Pathogen","6C/NA/NA","CNE","Not",803,20,"Fungal_trans, Zn_clus, Cep3",3
+"CPA_KAF3762168-1","Ascomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","CPA","Not",241,12,NA,0
+"CPA_KAF3762615-1","Ascomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","CPA","Not",322,11,NA,0
+"CPA_KAF3764225-1","Ascomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","CPA","Not",114,6,"Mucin",1
+"CPA_KAF3764336-1","Ascomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","CPA","Not",763,10,"DUF1479, Endotoxin_C2, HHH",3
+"CPA_KAF3767202-1","Ascomycota","Plant pathogen","Plant","Pathogen","6C/Hyd1/NA","CPA","Secreted",225,7,"Hydrophobin",1
+"CPA_KAF3767445-1","Ascomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","CPA","Not",1047,16,"ANAPC4_WD40, WD40, Cytochrom_D1, eIF2A, HPS3_N, Nucleoporin_N, Nup160, Utp21",8
+"CPA_KAF3769176-1","Ascomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","CPA","Secreted",345,14,"DUF1242, DUF4690, EphA2_TM, Podoplanin",4
+"CPA_KAF3769786-1","Ascomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","CPA","Secreted",141,11,NA,0
+"CQU_KAG0140974-1","Basidiomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","CQU","Not",203,9,NA,0
+"CQU_KAG0141898-1","Basidiomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","CQU","Not",1470,23,"CENP-B_dimeris, HEAT, HEAT_2, STAG",4
+"CQU_KAG0142163-1","Basidiomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","CQU","Not",924,17,"TPR_19, PPR, RPN7, TPR_11, TPR_8, Clathrin, zf-C3HC4, zf-C3HC4_2, zf-RING_2, zf-RING_5, zf-RING_UBOX, Vps39_2, zf-C3H2C3, zf-rbx1, zf-RING_11",15
+"CQU_KAG0147148-1","Basidiomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","CQU","Not",888,18,"BUD22, DUF747",2
+"CQU_KAG0147246-1","Basidiomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","CQU","Secreted",92,8,NA,0
+"CQU_KAG0150956-1","Basidiomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","CQU","Not",1233,8,"Ima1_N, Phage-A118_gp45, TIMELESS",3
+"CRE_PIA12786-1","Zoopagomycota","Kickxellomycotina",NA,"Saprotroph","6C/NA/NA","CRE","Not",1686,23,"Ank, Ank_2, Ank_3, Ank_4, Ank_5, DEAD, HDA2-3, Helicase_C, ResIII, SNF2-rel_dom, AAA_22, DAO, DBINO, ERCC3_RAD25_C, FAD_binding_3, HAND, Lycopene_cycl, Pyr_redox, Pyr_redox_2, SE, SLIDE, SWI2_SNF2",22
+"CRE_PIA12916-1","Zoopagomycota","Kickxellomycotina",NA,"Saprotroph","6C/NA/NA","CRE","Not",797,9,"tRNA-synt_1e, GST_C, GST_C_2, tRNA-synt_1c, tRNA-synt_1c_C",5
+"CRE_PIA13791-1","Zoopagomycota","Kickxellomycotina",NA,"Saprotroph","6C/NA/NA","CRE","Not",367,13,"Spo7, zf-C3HC4, zf-C3HC4_2, zf-RING_2, zf-rbx1, zf-RING_11, 2TM, zf-ANAPC11",8
+"CRE_PIA15296-1","Zoopagomycota","Kickxellomycotina",NA,"Saprotroph","6C/NA/NA","CRE","Not",503,15,"ORC_WH_C, ORC3_ins, ORC3_N",3
+"CRE_PIA16368-1","Zoopagomycota","Kickxellomycotina",NA,"Saprotroph","6C/NA/NA","CRE","Not",322,7,"ANAPC4_WD40, WD40",2
+"CRE_PIA17261-1","Zoopagomycota","Kickxellomycotina",NA,"Saprotroph","6C/NA/NA","CRE","Not",551,8,NA,0
+"CRE_PIA18599-1","Zoopagomycota","Kickxellomycotina",NA,"Saprotroph","6C/NA/NA","CRE","Not",1002,17,"Cation_ATPase, E1-E2_ATPase, Hydrolase, Hydrolase_3, Cation_ATPase_C, Cation_ATPase_N",6
+"CRE_PIA18707-1","Zoopagomycota","Kickxellomycotina",NA,"Saprotroph","6C/NA/NA","CRE","Not",341,9,"HLH",1
+"CRE_PIA19404-1","Zoopagomycota","Kickxellomycotina",NA,"Saprotroph","6C/NA/NA","CRE","Not",429,13,"Chitin_synth_2, Glyco_tranf_2_3, Glyco_trans_2_3, Glyco_transf_21, Glycos_transf_2",5
+"CRE_PIA19418-1","Zoopagomycota","Kickxellomycotina",NA,"Saprotroph","6C/NA/NA","CRE","Not",266,7,"RsgA_GTPase, AIG1, Dynamin_N, FeoB_N, GTP_EFTU, MMR_HSR1, RII_binding_1, Septin, SRPRB",9
+"CRE_PIA19731-1","Zoopagomycota","Kickxellomycotina",NA,"Saprotroph","6C/NA/NA","CRE","Not",196,15,NA,0
+"CTH_jgi_Conth1_111940_CE111939_6267","Zoopagomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","CTH","Not",530,28,"zf-C3HC4, zf-C3HC4_2, zf-C3HC4_3, zf-C3HC4_4, zf-RING_2, zf-RING_5, zf-RING_UBOX, zf-CCHH, zf-CRD, zf-RING_6, Zn-C2H2_12",11
+"CTH_jgi_Conth1_325246_fgenesh1_kg-123___4___Locus7347v1rpkm6-51","Zoopagomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","CTH","Not",420,22,"Rhodanese, Rhodanese_C, UPF0176_N",3
+"CTH_jgi_Conth1_325303_fgenesh1_kg-128___3___Locus4300v1rpkm29-00","Zoopagomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","CTH","Not",1024,11,"BAH, Bromodomain",2
+"CTH_jgi_Conth1_325948_fgenesh1_kg-213___5___Locus4115v1rpkm31-15","Zoopagomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","CTH","Not",1046,18,"HEAT_2, HEAT_EZ, Ipi1_N, MMS19_C, MMS19_N",5
+"CTH_jgi_Conth1_326876_fgenesh1_pg-2___65","Zoopagomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","CTH","Not",248,14,"DUF755, Eco57I, GTSE1_N, HemX, Importin_rep_6, SesA",6
+"CTH_jgi_Conth1_340885_estExt_fgenesh1_pg-C_380037","Zoopagomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","CTH","Not",463,19,"Serinc, TMEM43",2
+"CTH_jgi_Conth1_344079_estExt_fgenesh1_pg-C_2060005","Zoopagomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","CTH","Not",934,9,"ATP-synt_ab_Xtn, NPCC",2
+"CTH_jgi_Conth1_345542_gm1-270_g","Zoopagomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","CTH","Not",1401,24,"CENP-B_dimeris",1
+"CTH_jgi_Conth1_351263_gm1-5991_g","Zoopagomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","CTH","Not",118,7,NA,0
+"CTH_jgi_Conth1_368486_estExt_Genemark1-C_2950003","Zoopagomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","CTH","Not",915,13,"ATP-grasp_3, His_Phos_2, LMBR1, PPIP5K2_N, RimK",5
+"DDI_XP_001134481-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",2013,31,"DUF3439, DUF908, TFIIA, HEAT, HEAT_2, HEAT_EZ, CLASP_N, Dopey_N, ParcG, RTP1_C1, SRP54_N, TAN",12
+"DDI_XP_001134628-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",837,15,"dsrm, DEAD, Helicase_C, ResIII, AAA_22, SWI2_SNF2, DND1_DSRM, DUF643, RXLR, Terminase_6N",10
+"DDI_XP_628911-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",609,14,"Conotoxin, Menin, TFIIA, Androgen_recep, CFIA_Pcf11, Lipase_3, NST1, Peroxin-13_N, PNISR, POX, Presenilin, Tir_receptor_N, Tyrosinase",13
+"DDI_XP_629224-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",646,10,"Methyltransf_11, Methyltransf_12, Methyltransf_23, Methyltransf_31, AviRa, Cons_hypoth95, DREV, DUF3801, FtsJ, LPD11, Methyltransf_15, Methyltransf_25, Methyltransf_32, Methyltransf_4, MTS, PCMT, PrmA, tRNA_U5-meth_tr, Ubie_methyltran",19
+"DDI_XP_629459-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",471,12,"SR-25, CLTH, HAD_2, LisH, SPRY",5
+"DDI_XP_629488-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",686,10,"NOA36, Peroxin-13_N, POX, DUF3276",4
+"DDI_XP_629961-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",651,11,NA,0
+"DDI_XP_635899-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",539,9,"Mucin, DUF3439, TFIIA, Importin_rep_6, Ferlin_C, G0-G1_switch_2, JmjC, MAS20, NARP1, Peptidase_S49_N, PET117, PP2C, PP2C_2, TPX2",14
+"DDI_XP_635996-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",1943,29,"Hydrolase, Cation_ATPase_C, Hydrolase_6",3
+"DDI_XP_636123-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",1092,10,"Ank_2, TCP",2
+"DDI_XP_636407-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",2060,17,"Presenilin, EF-hand_1, EF-hand_6, EF-hand_7, Ion_trans, Neur_chan_memb",6
+"DDI_XP_636746-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",970,17,"ANAPC4_WD40, WD40, zf-C3HC4, zf-C3HC4_2, zf-C3HC4_3, zf-C3HC4_4, zf-RING_2, zf-RING_5, zf-RING_UBOX, zf-rbx1, zf-RING_6, Prok-RING_4, U-box, zf-Nse, zf-P11, zf-RING_10",16
+"DDI_XP_637064-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",1814,39,"zf-RING_2, zf-RING_UBOX, PRT6_C, zf-UBR, eIF3_p135",5
+"DDI_XP_637218-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",504,10,"AA_permease, AA_permease_2, EF_assoc_1, PglL_A",4
+"DDI_XP_637335-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",312,9,"Conotoxin, SUIM_assoc, TFIIA, DUF4407, FAM176, DUF755, Presenilin, Peptidase_S49_N, Neur_chan_memb, Activator_LAG-3, ATP-synt_E, CLN3, CobT, CPSF100_C, Ctr, DDHD, Dishevelled, DUF2126, DUF2722, DUF3464, DUF4175, DUF4834, DUF6080, DUF775, EIIBC-GUT_N, EMC3_TMCO1, EOS1, EPL1, Folliculin, GTA_holin_3TM, Gti1_Pac2, MscS_TM, Ndc1_Nup, Pal1, Paramyxo_ncap, Pet20, Roughex, RST, Sec62, Spt20, TERB2, Tim54, TMEM51",43
+"DDI_XP_637794-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",442,13,NA,0
+"DDI_XP_638336-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",837,18,"TFIIA, ANAPC4_WD40, WD40, DUF4407, Presenilin, CLN3, DUF2126, DUF4175, EMC3_TMCO1, TERB2, Tim54, 60KD_IMP, ABC2_membrane_2, ANAPC4, BORG_CEP, Connexin, DUF3807, DUF4746, DUF5308, DUF6264, DUF702, Endonuc_Holl, FYDLN_acid, PAP_RNA-bind, PepSY_TM, Spore_coat_CotO, Suf, WASH-7_C, WD40_2",29
+"DDI_XP_638563-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",998,7,"MA3",1
+"DDI_XP_638590-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",274,12,"Yae1_N",1
+"DDI_XP_640316-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",874,14,"LRR_1, LRR_4, LRR_6, CactinC_cactus, RAM, YjcQ",6
+"DDI_XP_640914-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",260,10,"AAA_16, NACHT, Ras, Roc, RsgA_GTPase, AAA, AAA_22, FeoB_N, GTP_EFTU, MMR_HSR1, AAA_14, AAA_18, AAA_7, Arf, ATP_bind_1, ATPase, Dala_Dala_lig_N, NTPase_1, pXO2-34, TniB, Viral_helicase1",21
+"DDI_XP_641952-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",1350,24,"C1_1, C1_2, PHD, PHD_2",4
+"DDI_XP_642107-2","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",686,14,"Peroxin-13_N, DUF4834, DNA_pol_A_exo1",3
+"DDI_XP_642249-2","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",876,12,"SH3_1, SH3_9, ArfGap",3
+"DDI_XP_642480-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",312,15,"DUF4614, FAM176, NST1, Presenilin, Tim54, Apc15p, DUF5580, MMU163, PPP4R2, SPRING1, Utp14, XAP5",12
+"DDI_XP_643093-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",425,11,"DUF5641",1
+"DDI_XP_644031-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",1662,24,"AAA_16, AAA, ABC_tran, AAA_21, AAA_23, AAA_29, AAA_30, ABC2_membrane_3, MukB, SbcCD_C, SMC_N, SRP54, Zeta_toxin",13
+"DDI_XP_644310-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",626,19,NA,0
+"DDI_XP_645374-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",2722,39,"NAM-associated, PHD, EVE",3
+"DDI_XP_645911-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",203,6,"AAA_16, AAA_5, DAP3, NACHT, NB-ARC, Ras, Roc, RsgA_GTPase, AAA_22, AAA_24, GTP_EFTU, MMR_HSR1, Septin, SRPRB, AAA_7, Arf, ATP_bind_1, NTPase_1, TniB, ATPase_2, cobW, G-alpha, Gtr1_RagA, PduV-EutP",24
+"DDI_XP_646066-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Secreted",500,12,"Branch, EGF_2, EGF_Tenascin, GIDA_C",4
+"DDI_XP_647088-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","DDI","Not",684,11,"TFIIA, AMP-binding, AMP-binding_C, DUF4407, Presenilin, CobT, DUF2722, DUF3464, DUF4175, DUF4834, DUF775, EIIBC-GUT_N, Roughex, Spt20, TERB2, TMEM51, Suf, ACAS_N, DivIC, FAM60A, FHIPEP, GEN1_C, Med15, RED_N, RskA, Thg1C, UPF0560",27
+"ECU_NP_585794-1","Microsporidia","Animal pathogen","Animal","Pathogen","6C/NA/NA","ECU","Secreted",553,24,"Disintegrin, Peptidase_M10, Reprolysin, Reprolysin_2, Reprolysin_3, Reprolysin_4, Reprolysin_5",7
+"ECU_NP_586011-1","Microsporidia","Animal pathogen","Animal","Pathogen","6C/NA/NA","ECU","Not",1058,29,"DEAD, Helicase_C, ResIII, SNF2-rel_dom, AAA_22, AAA_19, CobA_CobO_BtuR, DUF3638, PhoH, Sec63",10
+"ECU_NP_586135-1","Microsporidia","Animal pathogen","Animal","Pathogen","6C/NA/NA","ECU","Not",260,8,"DUF520, Nop",2
+"ECU_NP_586234-1","Microsporidia","Animal pathogen","Animal","Pathogen","6C/NA/NA","ECU","Not",514,14,NA,0
+"ECU_NP_597259-1","Microsporidia","Animal pathogen","Animal","Pathogen","6C/NA/NA","ECU","Not",358,12,"Prenyltrans, SQHop_cyclase_N",2
+"ECU_NP_597460-1","Microsporidia","Animal pathogen","Animal","Pathogen","6C/NA/NA","ECU","Not",324,8,"Hydrolase, HAD_2, Hydrolase_like",3
+"ECU_XP_955632-1","Microsporidia","Animal pathogen","Animal","Pathogen","6C/NA/NA","ECU","Not",287,8,"RRN3",1
+"EFE_QPG96728-1","Ascomycota","plant endophyte","Plant","Mutualist","6C/NA/NA","EFE","Not",1021,6,"DNA_pol_phi, NOA36, Complex1_LYR, Complex1_LYR_1, Complex1_LYR_2",5
+"EFE_QPG96974-1","Ascomycota","plant endophyte","Plant","Mutualist","6C/NA/NA","EFE","Not",61,7,"MSA-2c",1
+"EFE_QPG97524-1","Ascomycota","plant endophyte","Plant","Mutualist","6C/NA/NA","EFE","Not",1437,31,"Ald_Xan_dh_C, Ald_Xan_dh_C2, CO_deh_flav_C, DUF218, FAD_binding_5, Fer2, Fer2_2, Sigma70_r3",8
+"EFE_QPG97614-1","Ascomycota","plant endophyte","Plant","Mutualist","6C/NA/NA","EFE","Not",848,16,"DUF5792, SLX9",2
+"EFE_QPH02355-1","Ascomycota","plant endophyte","Plant","Mutualist","6C/NA/NA","EFE","Not",706,18,"OCC1",1
+"EFE_QPH05449-1","Ascomycota","plant endophyte","Plant","Mutualist","6C/NA/NA","EFE","Not",533,18,"APH",1
+"EFE_QPH06515-1","Ascomycota","plant endophyte","Plant","Mutualist","6C/NA/NA","EFE","Not",697,22,"Chitin_bind_1, AAA_29, DUF1080, DUF6250, Toxin_30",5
+"EFE_QPH09696-1","Ascomycota","plant endophyte","Plant","Mutualist","NA/NA/Hyd2","EFE","Secreted",100,6,NA,0
+"EFE_QPH09729-1","Ascomycota","plant endophyte","Plant","Mutualist","6C/NA/NA","EFE","Secreted",100,8,"DUF2703",1
+"EMU_KAF7741127-1","Zoopagomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","EMU","Secreted",408,13,"Chitin_bind_1, Glyco_hydro_16",2
+"EMU_KAF7742572-1","Zoopagomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","EMU","Not",339,20,"zf-C2H2, zf-C2H2_4, OrsD, zf-C2H2_aberr",4
+"EMU_KAF7744960-1","Zoopagomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","EMU","Not",447,23,"DUF953, SET",2
+"EMU_KAF7745105-1","Zoopagomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","EMU","Not",1415,26,"Pkinase, ANAPC4_WD40, WD40, HEAT, Cnd1",5
+"EMU_KAF7746750-1","Zoopagomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","EMU","Not",1208,28,"Gryzun-like, TRAPPC10",2
+"EMU_KAF7747203-1","Zoopagomycota","Insect pathogen","Insect","Pathogen","6C/Hyd1/NA","EMU","Secreted",695,7,"Glycohydro_20b2, Hydrophobin, DUF5093, Glyco_hydro_20, Glyco_hydro_20b, GREB1, TP2",7
+"EMU_KAF7749840-1","Zoopagomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","EMU","Not",996,12,NA,0
+"EMU_KAF7750656-1","Zoopagomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","EMU","Not",1874,38,"ABC1, PI3_PI4_kinase, PI3Ka, PI4K_N",4
+"EMU_KAF7750675-1","Zoopagomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","EMU","Not",286,11,"3Beta_HSD, Epimerase, GDP_Man_Dehyd, NAD_binding_4, Polysacc_synt_2, RmlD_sub_bind",6
+"EMU_KAF7752073-1","Zoopagomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","EMU","Not",492,13,"Kinase-like, PK_Tyr_Ser-Thr, Pkinase, Pkinase_fungal, POLO_box",5
+"EMU_KAF7752899-1","Zoopagomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","EMU","Not",283,20,"RVT_1",1
+"EMU_KAF7756331-1","Zoopagomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","EMU","Not",641,9,"DNA_pol_A_exo1, HRDC, PMC2NT",3
+"EMU_KAF7758238-1","Zoopagomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","EMU","Not",231,12,NA,0
+"ENE_jgi_Erynec1_519_EV44_g2638T0","Ascomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","ENE","Not",795,14,NA,0
+"ENE_jgi_Erynec1_5639_EV44_g5274T0","Ascomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","ENE","Not",708,8,"RED_N, RRM_1, G-patch, G-patch_2, zf-C2H2_jaz, zf-RanBP",6
+"ENE_jgi_Erynec1_5911_EV44_g0713T0","Ascomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","ENE","Not",552,10,"zf-C3HC4_3",1
+"ENE_jgi_Erynec1_836_EV44_g3370T0","Ascomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","ENE","Not",246,10,NA,0
+"FAL_XP_009492763-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","FAL","Not",1622,22,"TFIIA, Spt20, ArfGap, CEBP_ZZ, DUF533, Fib_alpha, Phage_Mu_Gam, SelP_N, SIKE, zf-B_box",10
+"FAL_XP_009493203-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","FAL","Secreted",698,19,"ASMase_C, Metallophos",2
+"FAL_XP_009493870-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","FAL","Not",191,8,"Gram_pos_anchor, SUR7, Cybc1_Eros, DUF2371, Jagunal, Tetraspanin",6
+"FAL_XP_009495220-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","FAL","Secreted",770,20,NA,0
+"FAL_XP_009496017-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","FAL","Not",470,9,"Yae1_N",1
+"FAL_XP_009496571-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","FAL","Not",703,17,"Methyltransf_19, Orn_Arg_deC_N, Orn_DAP_Arg_deC",3
+"FAL_XP_009497872-1","Amoebozoa","Slime mold",NA,"Saprotroph","6C/NA/NA","FAL","Not",941,16,"Slx4, zf-C2HC_2",2
+"FFL_RSL42619-1","Ascomycota","Insect mutualist","Insect","Mutualist","6C/NA/NA","FFL","Not",836,34,"DNA_pol_phi, PBP1_TM, CENP-B_dimeris, RXT2_N, CDC45, NOA36, Nop14, Astro_capsid_p, DUF2457, HET, RNA_pol_3_Rpc31",11
+"FFL_RSL54111-1","Ascomycota","Insect mutualist","Insect","Mutualist","6C/NA/NA","FFL","Secreted",214,12,"MGC-24, TEX15",2
+"FFL_RSL54370-1","Ascomycota","Insect mutualist","Insect","Mutualist","6C/NA/NA","FFL","Not",436,16,"Zn_clus, Fungal_trans_2",2
+"FFL_RSL55543-1","Ascomycota","Insect mutualist","Insect","Mutualist","6C/NA/NA","FFL","Not",1023,20,"F-box, HET",2
+"FFL_RSL61505-1","Ascomycota","Insect mutualist","Insect","Mutualist","6C/NA/NA","FFL","Not",350,11,NA,0
+"FFL_RSL78202-1","Ascomycota","Insect mutualist","Insect","Mutualist","6C/NA/NA","FFL","Not",575,15,"Zn_clus",1
+"FFL_RSL81790-1","Ascomycota","Insect mutualist","Insect","Mutualist","6C/NA/NA","FFL","Secreted",282,15,"SKG6, Granulin, DUF4690, EphA2_TM, Alpha_GJ, CD34_antigen, DUF2613, Gram_pos_anchor, HCV_NS5a_1a, Mucin, SpoIIIAH, TMEM154, Trp_oprn_chp",13
+"FFL_RSL87537-1","Ascomycota","Insect mutualist","Insect","Mutualist","6C/NA/NA","FFL","Not",618,14,"MFS_1, Sugar_tr",2
+"FFL_RSL90975-1","Ascomycota","Insect mutualist","Insect","Mutualist","6C/NA/NA","FFL","Not",828,19,"TPR_14, TPR_2, TPR_12, TPR_19, TPR_8, TPR_MalT",6
+"FFL_RSL91352-1","Ascomycota","Insect mutualist","Insect","Mutualist","6C/NA/NA","FFL","Not",356,11,NA,0
+"FOL_RSL80518-1","Ascomycota","Insect mutualist","Insect","Mutualist","6C/NA/NA","FOL","Not",1206,33,"DEAD, Helicase_C, ResIII",3
+"FOL_RSL85092-1","Ascomycota","Insect mutualist","Insect","Mutualist","6C/NA/NA","FOL","Not",541,6,"DAO, FAD_binding_3, Lycopene_cycl, Pyr_redox, Pyr_redox_2, SE, DUF4908, HI0933_like, NAD_binding_8, Pyr_redox_3, Shikimate_DH, Thi4, TrkA_N",13
+"FOL_RSL89001-1","Ascomycota","Insect mutualist","Insect","Mutualist","6C/NA/NA","FOL","Not",332,9,NA,0
+"FOL_RSL93468-1","Ascomycota","Insect mutualist","Insect","Mutualist","6C/NA/NA","FOL","Not",973,10,"AAA_16, AAA_5, AAA, AAA_22, CPT, RuvB_N",6
+"FOL_RSM06187-1","Ascomycota","Insect mutualist","Insect","Mutualist","6C/NA/NA","FOL","Not",1804,28,"Ank, Ank_2, Ank_3, Ank_4, Ank_5, ZZ",6
+"FOL_RSM09165-1","Ascomycota","Insect mutualist","Insect","Mutualist","6C/NA/NA","FOL","Not",605,11,"DUF1772, AA_permease, DUF6531",3
+"FPI_EPS93503-1","Basidiomycota","Plant pathogen","Plant","Pathogen","6C/Hyd1/NA","FPI","Secreted",258,14,"Hydrophobin, DUF6223, K_channel_TID",3
+"FPI_EPS93504-1","Basidiomycota","Plant pathogen","Plant","Pathogen","6C/Hyd1/NA","FPI","Secreted",117,8,"Hydrophobin, Toxin_12",2
+"FPI_EPS93979-1","Basidiomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","FPI","Not",352,11,"DUF6534",1
+"FPI_EPS95873-1","Basidiomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","FPI","Not",610,12,"F-box, F-box-like",2
+"FPI_EPS97419-1","Basidiomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","FPI","Not",2398,32,"MOR2-PAG1_C, MOR2-PAG1_mid, MOR2-PAG1_N",3
+"FPI_EPS97542-1","Basidiomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","FPI","Not",800,13,"Pkinase_fungal",1
+"FPI_EPT00978-1","Basidiomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","FPI","Not",284,14,NA,0
+"FPI_EPT02388-1","Basidiomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","FPI","Not",557,12,"APH, Pkinase, RIO1, WaaY",4
+"KPA_ANZ73955-1","Ascomycota","Pichia renamed",NA,"Yeast","6C/NA/NA","KPA","Not",570,14,"MFS_1, Sugar_tr, MFS_1_like",3
+"KPA_ANZ77215-1","Ascomycota","Pichia renamed",NA,"Yeast","6C/NA/NA","KPA","Not",604,11,"OKR_DC_1, Pyridoxal_deC",2
+"KPA_ANZ77372-1","Ascomycota","Pichia renamed",NA,"Yeast","6C/NA/NA","KPA","Not",519,11,"DUF4149, Transp_cyt_pur, VIT1",3
+"LGO_jgi_LeugonAS2_1_1150383_CE1150382_9278","Basidiomycota","Insect mutualist","Insect","Mutualist","6C/NA/NA","LGO","Not",750,13,"Fungal_trans",1
+"LGO_jgi_LeugonAS2_1_1857666_e_gw1-270-25-1","Basidiomycota","Insect mutualist","Insect","Mutualist","6C/NA/NA","LGO","Not",83,7,"DUF3919",1
+"LGO_jgi_LeugonAS2_1_1869152_e_gw1-779-11-1","Basidiomycota","Insect mutualist","Insect","Mutualist","6C/NA/NA","LGO","Not",234,8,"Oxidored-like",1
+"LGO_jgi_LeugonAS2_1_1869874_e_gw1-826-25-1","Basidiomycota","Insect mutualist","Insect","Mutualist","6C/NA/NA","LGO","Not",462,12,"DPM3, Solute_trans_a",2
+"LGO_jgi_LeugonAS2_1_1934362_fgenesh1_kg-29___380___TRINITY_DN7585_c0_g3_i2","Basidiomycota","Insect mutualist","Insect","Mutualist","6C/Hyd1/NA","LGO","Secreted",96,8,"Hydrophobin",1
+"LGO_jgi_LeugonAS2_1_1938632_fgenesh1_kg-40___119___TRINITY_DN6455_c3_g2_i6","Basidiomycota","Insect mutualist","Insect","Mutualist","6C/NA/NA","LGO","Not",92,7,"DUF5494",1
+"LGO_jgi_LeugonAS2_1_1993998_fgenesh1_kg-229___296___TRINITY_DN8651_c2_g5_i11","Basidiomycota","Insect mutualist","Insect","Mutualist","6C/NA/NA","LGO","Not",76,7,NA,0
+"LGO_jgi_LeugonAS2_1_2001406_fgenesh1_kg-266___90___TRINITY_DN5968_c0_g1_i4","Basidiomycota","Insect mutualist","Insect","Mutualist","NA/Hyd1/NA","LGO","Secreted",95,4,"Hydrophobin",1
+"LGO_jgi_LeugonAS2_1_2001430_fgenesh1_kg-266___114___TRINITY_DN8814_c1_g2_i1","Basidiomycota","Insect mutualist","Insect","Mutualist","NA/Hyd1/NA","LGO","Not",81,5,"Hydrophobin, E3_binding",2
+"LGO_jgi_LeugonAS2_1_2146524_fgenesh1_pg-370___8","Basidiomycota","Insect mutualist","Insect","Mutualist","6C/NA/NA","LGO","Not",469,19,NA,0
+"LGO_jgi_LeugonAS2_1_2166572_estExt_fgenesh1_pm-C_1060011","Basidiomycota","Insect mutualist","Insect","Mutualist","6C/NA/NA","LGO","Not",2537,21,"Arm, HEAT, HEAT_2, HEAT_EZ, Adaptin_N, Vac14_Fab1_bd, DUF3385, FANCI_S2, Gcn1_N, Inhibitor_G39P, Ytp1",11
+"LGO_jgi_LeugonAS2_1_2366563_gm4-13906_g","Basidiomycota","Insect mutualist","Insect","Mutualist","6C/NA/NA","LGO","Not",483,13,NA,0
+"LGO_jgi_LeugonAS2_1_2370695_gm4-18038_g","Basidiomycota","Insect mutualist","Insect","Mutualist","6C/NA/NA","LGO","Not",293,12,NA,0
+"LGO_jgi_LeugonAS2_1_2390860_gm4-38203_g","Basidiomycota","Insect mutualist","Insect","Mutualist","6C/NA/NA","LGO","Not",836,23,"AAA_16, AAA_5, NACHT, NB-ARC, AAA, AAA_22, AAA_7, AAA_30, ATPase_2, RNA_helicase, TsaE",11
+"LGO_jgi_LeugonAS2_1_54099_CE54098_5384","Basidiomycota","Insect mutualist","Insect","Mutualist","6C/NA/NA","LGO","Not",547,13,NA,0
+"LGO_jgi_LeugonAS2_1_552818_CE552817_14648","Basidiomycota","Insect mutualist","Insect","Mutualist","6C/NA/NA","LGO","Not",359,14,"BTK, CHORD, CS",3
+"MAC_WP_011020738-1","Archaea","Multicellular archaean",NA,"Methanogen","6C/NA/NA","MAC","Not",379,10,"Dus, His_biosynth, IMPDH, Lsr2",4
+"MAC_WP_011024271-1","Archaea","Multicellular archaean",NA,"Methanogen","6C/NA/NA","MAC","Not",461,12,"MtaB",1
+"MAN_KID59456-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","MAN","Not",237,16,"DEC1, Toxin_20",2
+"MAN_KID59482-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","MAN","Not",742,44,"Disintegrin, Reprolysin, Reprolysin_2, Reprolysin_3, Reprolysin_4, Reprolysin_5, Peptidase_M66, CD34_antigen, Peptidase_M43, DUF1206, MFS_2, SieB, SPW, TMIE",14
+"MAN_KID63415-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","MAN","Not",86,10,"DUF5948",1
+"MAN_KID63484-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","MAN","Not",355,13,"F-box, F-box-like",2
+"MAN_KID64474-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","MAN","Secreted",149,10,NA,0
+"MAN_KID65131-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","MAN","Secreted",107,8,NA,0
+"MAN_KID65291-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/Hyd1/NA","MAN","Secreted",525,13,"Hydrophobin, RNase_Y_N",2
+"MAN_KID66610-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","MAN","Not",911,13,"ABC1, Kinase-like, PK_Tyr_Ser-Thr, Pkinase, FTA2, Haspin_kinase, C2, Choline_kinase, Kdo, Pkinase_C",10
+"MAN_KID67022-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/Hyd1/NA","MAN","Secreted",85,8,"Hydrophobin",1
+"MAN_KID67419-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","MAN","Secreted",379,18,"Podoplanin, CD99L2, DUF2207",3
+"MAN_KID67444-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","MAN","Secreted",212,18,"CLEC16A_C, AF-4, Period_C, Sporozoite_P67",4
+"MAN_KID71466-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","MAN","Not",335,22,"SKG6, DUF4690, Podoplanin, DUF3611, DUF5665",5
+"MAN_KID71615-1","Ascomycota","Insect pathogen","Insect","Pathogen","NA/NA/Hyd2","MAN","Secreted",207,24,"Hydrophobin_2, DUF1258, DUF5998, ESAG1, HTH_51, VP_N-CPKC",6
+"MCI_L0F63_000888-T1","Zoopagomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","MCI","Not",315,15,"AAA_11, AAA_12, Helicase_RecD",3
+"MCI_L0F63_001385-T1","Zoopagomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","MCI","Not",733,13,"AAA_lid_3, AAA, DUF3991, Vps4_C",4
+"MCI_L0F63_001744-T1","Zoopagomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","MCI","Not",837,14,"PUF",1
+"MCI_L0F63_004807-T1","Zoopagomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","MCI","Not",298,11,"Metallophos, FMN_dh",2
+"MCI_L0F63_004952-T1","Zoopagomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","MCI","Not",553,16,"Acyltransferase, Ketoacyl-synt_2",2
+"MCI_L0F63_005629-T1","Zoopagomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","MCI","Not",1083,26,"SAC3_GANP",1
+"NCR_XP_011394413-1","Ascomycota","Model filamentous fungus",NA,"Saprotroph","6C/NA/NA","NCR","Not",105,11,NA,0
+"NCR_XP_011395138-1","Ascomycota","Model filamentous fungus",NA,"Saprotroph","6C/NA/NA","NCR","Not",410,15,"DUF6057",1
+"NCR_XP_956859-1","Ascomycota","Model filamentous fungus",NA,"Saprotroph","6C/NA/NA","NCR","Not",527,10,NA,0
+"NCR_XP_959048-3","Ascomycota","Model filamentous fungus",NA,"Saprotroph","6C/NA/NA","NCR","Not",781,15,"Fungal_trans, Zn_clus",2
+"NCR_XP_959399-3","Ascomycota","Model filamentous fungus",NA,"Saprotroph","6C/NA/NA","NCR","Not",106,9,NA,0
+"NCR_XP_960571-3","Ascomycota","Model filamentous fungus",NA,"Saprotroph","6C/NA/NA","NCR","Not",355,28,"SAP130_C",1
+"NCR_XP_963009-3","Ascomycota","Model filamentous fungus",NA,"Saprotroph","6C/NA/NA","NCR","Not",167,14,"DUF832, GDWWSH",2
+"NCR_XP_963326-2","Ascomycota","Model filamentous fungus",NA,"Saprotroph","6C/NA/NA","NCR","Not",203,13,NA,0
+"NCR_XP_963385-2","Ascomycota","Model filamentous fungus",NA,"Saprotroph","6C/NA/NA","NCR","Not",489,11,"Amidohydro_1, Amidohydro_3, A_deaminase, AMP_deaminase",4
+"NCR_XP_963745-2","Ascomycota","Model filamentous fungus",NA,"Saprotroph","6C/NA/NA","NCR","Not",1448,22,"TRP, TRP_N",2
+"NCR_XP_964645-3","Ascomycota","Model filamentous fungus",NA,"Saprotroph","6C/NA/NA","NCR","Not",590,9,"MFS_1, Sugar_tr, TRI12",3
+"NCR_XP_964651-3","Ascomycota","Model filamentous fungus",NA,"Saprotroph","6C/NA/NA","NCR","Not",283,7,"Menin, AXIN1_TNKS_BD",2
+"NSP_KAG0162075-1","Mucoromycota","Millipede associated","Arthropod","Mutualist","6C/NA/NA","NSP","Not",341,9,"NMT1, NMT1_2, Phosphonate-bd",3
+"NSP_KAG0163423-1","Mucoromycota","Millipede associated","Arthropod","Mutualist","6C/NA/NA","NSP","Not",164,7,"OrfB_Zn_ribbon",1
+"NSP_KAG0164593-1","Mucoromycota","Millipede associated","Arthropod","Mutualist","6C/NA/NA","NSP","Not",400,16,NA,0
+"OCA_KAF4581069-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","OCA","Not",1696,34,"LRR_4, DEAD, Helicase_C, ResIII, SNF2-rel_dom, DUF2367",6
+"OCA_KAF4582303-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","OCA","Not",216,9,"Glutaredoxin, Synthase_beta",2
+"OCA_KAF4582875-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/Hyd1/NA","OCA","Secreted",112,8,"Hydrophobin",1
+"OCA_KAF4583157-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","OCA","Secreted",297,23,"LTP_2",1
+"OCA_KAF4587292-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","OCA","Not",1160,15,"3Beta_HSD, AMP-binding, AMP-binding_C, Epimerase, NAD_binding_4, PP-binding",6
+"OCA_KAF4587329-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","OCA","Not",463,13,"ACT, CxC6, Mob1_phocein",3
+"OCA_KAF4587811-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","OCA","Not",244,14,"UBA_4, zf-C3HC4_3, zf-RING_10, LysM",4
+"OCA_KAF4589190-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","OCA","Not",720,32,"DUF2524",1
+"OCA_KAF4589328-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","OCA","Not",607,14,"F-box, F-box-like, Transglut_core2, YccV-like",4
+"OCA_KAF4589405-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","OCA","Secreted",166,18,"DUF3500",1
+"OCA_KAF4589727-1","Ascomycota","Insect pathogen","Insect","Pathogen","NA/NA/Hyd2","OCA","Secreted",413,5,"Hydrophobin_2",1
+"OCA_KAF4591863-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","OCA","Not",2034,45,"HTH_51, PP-binding, Acyl_transf_1, KAsynt_C_assoc, ketoacyl-synt, Ketoacyl-synt_C, Methyltransf_11, Methyltransf_12, Methyltransf_23, Methyltransf_31, PS-DH, Thiolase_N, Methyltransf_25, DUF938, Methyltransf_16, Methyltransf_33, Sacchrp_dh_NADP, SAT",18
+"OCA_KAF4594605-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/NA/Hyd2","OCA","Secreted",166,9,"Hydrophobin_2",1
+"OCA_KAF4594709-1","Ascomycota","Insect pathogen","Insect","Pathogen","6C/NA/NA","OCA","Not",426,8,"SUA5, Sua5_yciO_yrdC",2
+"OCA_KAF4595409-1","Ascomycota","Insect pathogen","Insect","Pathogen","NA/Hyd1/NA","OCA","Secreted",270,7,"Hydrophobin, DEC-1_N",2
+"PCY_RKP13546-1","Zoopagomycota","Mycoparasite","Fungi","Parasite","6C/NA/NA","PCY","Not",611,14,"Helicase_C, ResIII, SNF2-rel_dom, ERCC3_RAD25_C",4
+"PCY_RKP14404-1","Zoopagomycota","Mycoparasite","Fungi","Parasite","6C/NA/NA","PCY","Not",194,20,NA,0
+"PEF_RQM08861-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PEF","Not",1252,41,NA,0
+"PEF_RQM09034-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PEF","Not",1876,25,"Ank, Ank_2, Ank_3, Ank_4, Ank_5, PH_11, AAA_16, PH, AAA_22, Aida_C2, IQ, Myosin_head, Myosin_N, PilS",14
+"PEF_RQM09066-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PEF","Secreted",1080,37,"Glyco_hydro_81, Glyco_hydro81C",2
+"PEF_RQM09078-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PEF","Not",869,18,"DUF4211, GCP_C_terminal, GCP_N_terminal, Lectin_legB",4
+"PEF_RQM09234-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PEF","Not",1169,27,NA,0
+"PEF_RQM09844-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PEF","Not",1268,21,"DUF3361, Rab3-GTPase_cat",2
+"PEF_RQM10549-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PEF","Not",813,16,"BTB, Hira, RCC1, RCC1_2",4
+"PEF_RQM11940-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PEF","Not",1984,65,"CENP-B_dimeris, Cwf_Cwc_15, DDHD, PRP21_like_P, Surp, ubiquitin",6
+"PEF_RQM12491-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PEF","Not",786,17,"DUF2207, NPCC, DUF3481, EcsC, EI24, Mit_KHE1, PIEZO",7
+"PEF_RQM14945-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PEF","Not",2732,66,"Ank, Ank_2, Ank_3, Ank_4, Ank_5, HECT, DZR, zf-RanBP, Vps36-NZF-N",9
+"PEF_RQM14951-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PEF","Not",3006,53,"DUF3517, UCH, UCH_1",3
+"PEF_RQM15814-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PEF","Not",252,16,"Prim_Zn_Ribbon, PHD, RCC1, RCC1_2, Prok-RING_1",5
+"PEF_RQM16770-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PEF","Not",473,13,"Amidohydro_1, Amidohydro_3",2
+"PEF_RQM17732-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PEF","Not",373,17,"FYVE",1
+"PEF_RQM18203-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PEF","Secreted",753,19,"HECT",1
+"PEF_RQM18247-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PEF","Not",1091,33,"E1-E2_ATPase, Hydrolase, Hydrolase_3, HAD, HMA",5
+"PEF_RQM18664-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PEF","Not",310,7,"DUF2231",1
+"PEF_RQM18711-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PEF","Not",1157,19,"PH, EDR2_C, PH_8",3
+"PEF_RQM18875-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PEF","Not",722,20,"DUF1554",1
+"PFA_XP_001347427-1","Apicomplexa","Human parasite","Human","Parasite","6C/NA/NA","PFA","Not",1299,33,NA,0
+"PFA_XP_001347860-1","Apicomplexa","Human parasite","Human","Parasite","6C/NA/NA","PFA","Not",1488,39,"Peptidase_M16, Peptidase_M16_C",2
+"PFA_XP_001348438-1","Apicomplexa","Human parasite","Human","Parasite","6C/NA/NA","PFA","Not",2353,40,NA,0
+"PFA_XP_001348447-1","Apicomplexa","Human parasite","Human","Parasite","6C/NA/NA","PFA","Not",2779,54,"DUF948, DUF3450, SpoU_methylase",3
+"PFA_XP_001348459-1","Apicomplexa","Human parasite","Human","Parasite","6C/NA/NA","PFA","Not",876,20,"Exo_endo_phos",1
+"PFA_XP_001348477-2","Apicomplexa","Human parasite","Human","Parasite","6C/NA/NA","PFA","Not",1670,39,NA,0
+"PFA_XP_001348675-1","Apicomplexa","Human parasite","Human","Parasite","6C/NA/NA","PFA","Not",3347,68,"DCB",1
+"PFA_XP_001348721-2","Apicomplexa","Human parasite","Human","Parasite","6C/NA/NA","PFA","Not",3055,58,NA,0
+"PFA_XP_001348726-1","Apicomplexa","Human parasite","Human","Parasite","6C/NA/NA","PFA","Not",3455,48,NA,0
+"PFA_XP_001348972-2","Apicomplexa","Human parasite","Human","Parasite","6C/NA/NA","PFA","Not",4358,80,"Ctr",1
+"PFA_XP_001349062-1","Apicomplexa","Human parasite","Human","Parasite","6C/NA/NA","PFA","Not",556,15,"DUF2207, Cation_efflux, DUF4064, SNARE",4
+"PFA_XP_001349124-1","Apicomplexa","Human parasite","Human","Parasite","6C/NA/NA","PFA","Not",1221,43,"BRAP2, OAD_gamma, zf-UBP",3
+"PFA_XP_001349925-1","Apicomplexa","Human parasite","Human","Parasite","6C/NA/NA","PFA","Not",581,20,NA,0
+"PFA_XP_001350062-1","Apicomplexa","Human parasite","Human","Parasite","6C/NA/NA","PFA","Not",871,21,"DA1-like",1
+"PFA_XP_001350111-1","Apicomplexa","Human parasite","Human","Parasite","6C/NA/NA","PFA","Not",443,10,"Peptidase_S49_N, SprT-like",2
+"PFA_XP_001350648-1","Apicomplexa","Human parasite","Human","Parasite","6C/NA/NA","PFA","Not",1696,26,"Anticodon_1, tRNA-synt_1, zf-FPG_IleRS",3
+"PFA_XP_001350996-2","Apicomplexa","Human parasite","Human","Parasite","6C/NA/NA","PFA","Not",1411,18,NA,0
+"PFA_XP_001351652-1","Apicomplexa","Human parasite","Human","Parasite","6C/NA/NA","PFA","Not",2914,51,"Col_cuticle_N, PSP1, RNA_pol_Rpb1_1, RNA_pol_Rpb1_2, RNA_pol_Rpb1_3, RNA_pol_Rpb1_4, RNA_pol_Rpb1_5",7
+"PFA_XP_001351743-1","Apicomplexa","Human parasite","Human","Parasite","6C/NA/NA","PFA","Not",1276,38,"ANAPC4_WD40, WD40",2
+"PFA_XP_001351861-1","Apicomplexa","Human parasite","Human","Parasite","6C/NA/NA","PFA","Not",1083,31,"Methyltransf_25, Methyltransf_32, MTS, DUF1043, Methyltransf_2",5
+"PFA_XP_001351911-1","Apicomplexa","Human parasite","Human","Parasite","6C/NA/NA","PFA","Not",453,15,"Tubulin, Tubulin_3, Tubulin_C",3
+"PFA_XP_001351976-1","Apicomplexa","Human parasite","Human","Parasite","6C/NA/NA","PFA","Not",1193,32,"AIRS, AIRS_C, zf-RING_7",3
+"PFA_XP_966086-1","Apicomplexa","Human parasite","Human","Parasite","6C/NA/NA","PFA","Not",1257,40,NA,0
+"PFA_XP_966279-2","Apicomplexa","Human parasite","Human","Parasite","6C/NA/NA","PFA","Not",6753,207,"PHD, AIMP2_LysRS_bd, zf-HC5HC2H_2",3
+"PFA_XP_966289-1","Apicomplexa","Human parasite","Human","Parasite","6C/NA/NA","PFA","Not",657,19,"ExbD, THF_DHG_CYH, THF_DHG_CYH_C",3
+"PGR_XP_003320439-1","Basidiomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","PGR","Not",826,42,"DNA_pol_phi, PBP1_TM, Sporozoite_P67, zf-C2H2, zf-C2H2_4, zf-H2C2_2, zf-met, zf-C2H2_aberr, zf-C2H2_jaz, zf-C2HC_2, DUF3991, DUF2175, FOXP-CC, MAM33, Zap1_zf2, zf_ZIC, zf-C2H2_11, zf-C2H2_2, zf-C2H2_3rep, zf-C2H2_6, zf-C2H2_8, zf-C2HE",22
+"PGR_XP_003326990-1","Basidiomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","PGR","Not",1060,17,NA,0
+"PGR_XP_003330376-1","Basidiomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","PGR","Not",575,10,NA,0
+"PGR_XP_003334807-1","Basidiomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","PGR","Not",93,13,NA,0
+"PIN_XP_002894977-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PIN","Not",592,17,"PK_Tyr_Ser-Thr, Pkinase, F-box-like, Cyclin_C, Cyclin_N",5
+"PIN_XP_002895665-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PIN","Not",382,17,NA,0
+"PIN_XP_002896340-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PIN","Not",180,10,NA,0
+"PIN_XP_002896556-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PIN","Not",748,28,"Ank, Ank_2, Ank_3, Ank_4, Ank_5, HECT, PHD",7
+"PIN_XP_002897753-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PIN","Not",704,17,"zf-C2H2_4",1
+"PIN_XP_002898447-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PIN","Not",141,7,NA,0
+"PIN_XP_002898653-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PIN","Not",1242,23,"LMBR1, ApoO, Baculo_PEP_C, DASH_Spc34, DUF1664, EF-hand_8, HIP1_clath_bdg, Med9, SopD",9
+"PIN_XP_002899521-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PIN","Not",1101,23,"PPR, DNA_pol_A_exo1, ATP13, PPR_1, PPR_2, PPR_3, PPR_long",7
+"PIN_XP_002899571-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PIN","Not",1076,22,"ANAPC4_WD40, WD40, WD40_like, Beach, GRAM, PH_BEACH",6
+"PIN_XP_002901559-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PIN","Secreted",277,7,"DUF6529",1
+"PIN_XP_002902113-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PIN","Not",428,10,"DUF5510, Tom5",2
+"PIN_XP_002902533-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PIN","Not",295,10,"CarS-like, CTP_transf_1, DAGK_prokar",3
+"PIN_XP_002903226-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PIN","Not",167,9,"Cytochrom_C_asm, TM_helix",2
+"PIN_XP_002903623-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PIN","Not",360,13,"FYVE, FYVE_2, Prok-RING_4, Prok-RING_2",4
+"PIN_XP_002904189-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PIN","Not",763,16,"DUF3340, GCS",2
+"PIN_XP_002905561-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PIN","Not",475,18,"Methyltransf_31, Methyltransf_32, Methyltransf_4, MTS, TRM13, zf-TRM13_CCCH, zf-U11-48K",7
+"PIN_XP_002905942-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PIN","Not",1215,29,"Trp_oprn_chp, ABC_tran, AAA_21, ABC2_membrane_3, ABC2_membrane, ABC2_membrane_7, DUF2085, PCSK9_C3, Per1",9
+"PIN_XP_002906408-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PIN","Secreted",2631,32,"Glyco_hydro_16, DUF4203, FKS1_dom1, Glucan_synthase, SKN1_KRE6_Sbg1",5
+"PIN_XP_002906917-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PIN","Not",752,13,"ANAPC4_WD40, WD40, Ge1_WD40, PQQ, R3H-assoc",5
+"PIN_XP_002907829-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PIN","Not",406,10,"DUF4381, DUF5556, PAP2_C",3
+"PIN_XP_002908506-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PIN","Not",113,7,NA,0
+"PIN_XP_002909458-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PIN","Not",249,8,"Ank, Ank_2, Ank_3, Ank_4, Ank_5",5
+"PIN_XP_002997987-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PIN","Not",564,17,NA,0
+"PIN_XP_002998318-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PIN","Not",864,28,NA,0
+"PIN_XP_002998327-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PIN","Not",317,12,"zf-H2C2_2, MRI",2
+"PIN_XP_002998531-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PIN","Not",363,15,"DUF4407, SPRING1",2
+"PIN_XP_002999087-1","Oomycota ","Plant pathogen","Plant","Pathogen","6C/NA/NA","PIN","Not",4048,133,"Anth_Ig, CARDB, Ephrin_rec_like, Membrane_bind, TIG, TIG_plexin, TIG_SUH, YMF19",8
+"PJI_XP_018230317-1","Ascomycota","Human pathogen","Human","Pathogen","6C/NA/NA","PJI","Not",236,8,"Coq4",1
+"PJI_XP_018230501-1","Ascomycota","Human pathogen","Human","Pathogen","6C/NA/NA","PJI","Not",460,10,"NPCC, Cation_efflux, CRPA, TetM_leader",4
+"POR_XP_003708920-1","Ascomycota","Plant pathogen (Magnaporthe oryzae)","Plant","Pathogen","6C/NA/NA","POR","Secreted",113,9,"DUF6413",1
+"POR_XP_003709213-1","Ascomycota","Plant pathogen (Magnaporthe oryzae)","Plant","Pathogen","6C/NA/NA","POR","Not",284,8,NA,0
+"POR_XP_003709477-1","Ascomycota","Plant pathogen (Magnaporthe oryzae)","Plant","Pathogen","6C/NA/NA","POR","Not",623,8,"TPR_12, TPR_7, Clr5",3
+"POR_XP_003710461-1","Ascomycota","Plant pathogen (Magnaporthe oryzae)","Plant","Pathogen","6C/NA/NA","POR","Not",451,23,"F-box, F-box-like",2
+"POR_XP_003710810-1","Ascomycota","Plant pathogen (Magnaporthe oryzae)","Plant","Pathogen","6C/NA/NA","POR","Not",173,7,NA,0
+"POR_XP_003711202-1","Ascomycota","Plant pathogen (Magnaporthe oryzae)","Plant","Pathogen","6C/NA/NA","POR","Not",1259,23,"Macoilin, HET, Herpes_capsid",3
+"POR_XP_003711296-1","Ascomycota","Plant pathogen (Magnaporthe oryzae)","Plant","Pathogen","6C/NA/NA","POR","Secreted",102,8,NA,0
+"POR_XP_003711391-1","Ascomycota","Plant pathogen (Magnaporthe oryzae)","Plant","Pathogen","6C/NA/NA","POR","Not",100,6,"DUF3322",1
+"POR_XP_003712313-1","Ascomycota","Plant pathogen (Magnaporthe oryzae)","Plant","Pathogen","6C/NA/NA","POR","Not",104,8,NA,0
+"POR_XP_003712548-1","Ascomycota","Plant pathogen (Magnaporthe oryzae)","Plant","Pathogen","6C/NA/NA","POR","Not",918,12,"BRCT, BRCT_2, LIG3_BRCT, PTCB-BRCT, RTT107_BRCT_5",5
+"POR_XP_003713256-1","Ascomycota","Plant pathogen (Magnaporthe oryzae)","Plant","Pathogen","6C/NA/NA","POR","Not",1157,29,"E1-E2_ATPase, Hydrolase, HAD_2, HAD, HMA, Acetyltransf_10, HyaE",7
+"POR_XP_003713325-1","Ascomycota","Plant pathogen (Magnaporthe oryzae)","Plant","Pathogen","6C/NA/NA","POR","Secreted",168,6,NA,0
+"POR_XP_003713464-1","Ascomycota","Plant pathogen (Magnaporthe oryzae)","Plant","Pathogen","6C/NA/NA","POR","Secreted",141,8,NA,0
+"POR_XP_003713707-1","Ascomycota","Plant pathogen (Magnaporthe oryzae)","Plant","Pathogen","6C/NA/NA","POR","Not",968,12,"ANAPC4_WD40, WD40, eIF2A, Nucleoporin_N, Nup160, WD40_like, Ge1_WD40, Frtz, Utp12, Vpu, WD40_3",11
+"POR_XP_003713939-1","Ascomycota","Plant pathogen (Magnaporthe oryzae)","Plant","Pathogen","6C/NA/NA","POR","Not",2930,45,"TAN, PI3_PI4_kinase, baeRF_family5, FATC",4
+"POR_XP_003715609-1","Ascomycota","Plant pathogen (Magnaporthe oryzae)","Plant","Pathogen","6C/NA/NA","POR","Not",630,17,"Zn_clus, Fungal_trans_2",2
+"POR_XP_003715696-1","Ascomycota","Plant pathogen (Magnaporthe oryzae)","Plant","Pathogen","6C/NA/NA","POR","Not",324,15,"Podoplanin, Gram_pos_anchor, DUF6479",3
+"POR_XP_003716268-1","Ascomycota","Plant pathogen (Magnaporthe oryzae)","Plant","Pathogen","6C/NA/NA","POR","Not",321,13,"Zn_clus",1
+"POR_XP_003716609-1","Ascomycota","Plant pathogen (Magnaporthe oryzae)","Plant","Pathogen","6C/Hyd1/NA","POR","Secreted",140,8,"Hydrophobin, AvrLm4-7",2
+"POR_XP_003717332-1","Ascomycota","Plant pathogen (Magnaporthe oryzae)","Plant","Pathogen","6C/NA/NA","POR","Not",908,22,NA,0
+"POR_XP_003719427-1","Ascomycota","Plant pathogen (Magnaporthe oryzae)","Plant","Pathogen","6C/NA/NA","POR","Not",363,10,"Granulin, LapA_dom, DUF5706, TMEM51, DUF6479, DUF3318, Miga",7
+"POR_XP_003720298-1","Ascomycota","Plant pathogen (Magnaporthe oryzae)","Plant","Pathogen","6C/NA/NA","POR","Not",243,7,NA,0
+"POR_XP_003720612-1","Ascomycota","Plant pathogen (Magnaporthe oryzae)","Plant","Pathogen","6C/NA/NA","POR","Not",1281,15,"PH_13, RhoGEF, CNH, DEP, PH_5",5
+"PRU_jgi_Orpsp1_1_1174097_evm-model-c7180000048892-1","Chytridiomycota","Formerly Orpinomyces","Animal","Mutualist","6C/NA/NA","PRU","Not",449,16,"Choline_transpo",1
+"PRU_jgi_Orpsp1_1_1174202_evm-model-c7180000049255-1","Chytridiomycota","Formerly Orpinomyces","Animal","Mutualist","6C/NA/NA","PRU","Not",720,29,NA,0
+"PRU_jgi_Orpsp1_1_1176102_evm-model-c7180000056410-1","Chytridiomycota","Formerly Orpinomyces","Animal","Mutualist","6C/NA/NA","PRU","Not",669,15,"Ank, Ank_2, Ank_3, Ank_4, Ank_5, CdAMP_rec, DUF3859, RasGEF_N",8
+"PRU_jgi_Orpsp1_1_1176522_evm-model-c7180000057932-1","Chytridiomycota","Formerly Orpinomyces","Animal","Mutualist","6C/NA/NA","PRU","Secreted",1296,24,"CBM_10, Glyco_hydro_6, DUF4350, Fn3-like, Glyco_hydro_3, Glyco_hydro_3_C",6
+"PRU_jgi_Orpsp1_1_1177725_evm-model-c7180000062600-1","Chytridiomycota","Formerly Orpinomyces","Animal","Mutualist","6C/NA/NA","PRU","Not",1547,20,"Ank, Ank_2, Ank_3, Ank_4, Ank_5",5
+"PRU_jgi_Orpsp1_1_1177957_evm-model-c7180000063519-1","Chytridiomycota","Formerly Orpinomyces","Animal","Mutualist","6C/NA/NA","PRU","Not",162,11,"Chitin_bind_1",1
+"PRU_jgi_Orpsp1_1_1178318_evm-model-c7180000064823-1","Chytridiomycota","Formerly Orpinomyces","Animal","Mutualist","6C/NA/NA","PRU","Not",431,18,"CBM_10, CotH, D27-like_C",3
+"PRU_jgi_Orpsp1_1_1178402_evm-model-c7180000065129-1","Chytridiomycota","Formerly Orpinomyces","Animal","Mutualist","6C/NA/NA","PRU","Not",257,12,"Fer2, DUF3511, Fer2_3, Fer2_4, Fer4_17, Fer4_8",6
+"PRU_jgi_Orpsp1_1_1183628_evm-model-c7180000086032-1","Chytridiomycota","Formerly Orpinomyces","Animal","Mutualist","6C/NA/NA","PRU","Not",218,10,"CBM_10",1
+"PRU_jgi_Orpsp1_1_1184112_evm-model-c7180000088058-1","Chytridiomycota","Formerly Orpinomyces","Animal","Mutualist","6C/NA/NA","PRU","Not",1576,78,"Chitin_bind_1, Peptidase_S8",2
+"PRU_jgi_Orpsp1_1_1184930_evm-model-c7180000091625-1","Chytridiomycota","Formerly Orpinomyces","Animal","Mutualist","6C/NA/NA","PRU","Not",1007,15,"Peroxin-13_N, Presenilin, Gti1_Pac2, Tim54, CIS_TMP",5
+"PRU_jgi_Orpsp1_1_1185800_evm-model-c7180000095349-1","Chytridiomycota","Formerly Orpinomyces","Animal","Mutualist","6C/NA/NA","PRU","Secreted",398,22,"Chitin_bind_1",1
+"PRU_jgi_Orpsp1_1_1185862_evm-model-c7180000095676-1","Chytridiomycota","Formerly Orpinomyces","Animal","Mutualist","6C/NA/NA","PRU","Secreted",1127,18,"CBM_10, Cellulase, Glyco_hydro_10, Big_6, DUF4412",5
+"PRU_jgi_Orpsp1_1_1186565_evm-model-d7180000051545-1","Chytridiomycota","Formerly Orpinomyces","Animal","Mutualist","6C/NA/NA","PRU","Not",551,28,"CBM_10, DUF5484",2
+"PRU_jgi_Orpsp1_1_1186717_evm-model-d7180000052762-1","Chytridiomycota","Formerly Orpinomyces","Animal","Mutualist","6C/NA/NA","PRU","Secreted",337,13,"Polysacc_deac_1, DUF2334, CBM_10",3
+"PRU_jgi_Orpsp1_1_1187635_evm-model-d7180000059135-1","Chytridiomycota","Formerly Orpinomyces","Animal","Mutualist","6C/NA/NA","PRU","Not",229,11,"HRDC, RecQ_Zn_bind, RQC, zf-NOSIP",4
+"PRU_jgi_Orpsp1_1_1188808_evm-model-d7180000067340-2","Chytridiomycota","Formerly Orpinomyces","Animal","Mutualist","6C/NA/NA","PRU","Not",2019,60,"Ank, Ank_2, Ank_3, Ank_4, Ank_5, Phage_T7_Capsid, Carb_bind, DUF2795, DUF6375",9
+"PRU_jgi_Orpsp1_1_1190857_evm-model-d7180000081699-1","Chytridiomycota","Formerly Orpinomyces","Animal","Mutualist","6C/NA/NA","PRU","Secreted",202,14,"CBM_1",1
+"PRU_jgi_Orpsp1_1_1191127_evm-model-d7180000083642-1","Chytridiomycota","Formerly Orpinomyces","Animal","Mutualist","6C/NA/NA","PRU","Not",190,7,"GREB1, SOG2, CBM_10, RIFIN, PAP1, GKAP, Fes1, Hydin_ADK",8
+"PRU_jgi_Orpsp1_1_1191367_evm-model-d7180000085196-1","Chytridiomycota","Formerly Orpinomyces","Animal","Mutualist","6C/NA/NA","PRU","Not",504,6,NA,0
+"PRU_jgi_Orpsp1_1_1192009_evm-model-d7180000089965-1","Chytridiomycota","Formerly Orpinomyces","Animal","Mutualist","6C/NA/NA","PRU","Not",530,15,"RVT_1, rve, Integrase_H2C2, zf-H2C2",4
+"PRU_jgi_Orpsp1_1_1192704_evm-model-d7180000095281-1","Chytridiomycota","Formerly Orpinomyces","Animal","Mutualist","6C/NA/NA","PRU","Not",787,16,"SDA1, Cwf_Cwc_15, CDC45, CLN3, DUF2457",5
+"PSA_PJF17278-1","Cryptomycota","Cryptomycota - intracellular parasite","Amoeba","Parasite","6C/NA/NA","PSA","Not",850,19,"PAT1",1
+"PSA_PJF17525-1","Cryptomycota","Cryptomycota - intracellular parasite","Amoeba","Parasite","6C/NA/NA","PSA","Not",236,29,"Disintegrin, ADAM_CR_2",2
+"PSA_PJF18289-1","Cryptomycota","Cryptomycota - intracellular parasite","Amoeba","Parasite","6C/NA/NA","PSA","Not",186,8,NA,0
+"PSA_PJF18775-1","Cryptomycota","Cryptomycota - intracellular parasite","Amoeba","Parasite","6C/NA/NA","PSA","Not",2157,49,"Arm, HEAT, HEAT_2, HEAT_EZ, CLASP_N, Cnd1, Vac14_Fab1_bd, IFRD, Tti2, UME",10
+"PSA_PJF19020-1","Cryptomycota","Cryptomycota - intracellular parasite","Amoeba","Parasite","6C/NA/NA","PSA","Not",463,14,"Med14",1
+"RAL_EPZ31047-1","Cryptomycota","Cryptomycota - intracellular parasite","Fungi","Parasite","6C/NA/NA","RAL","Not",623,18,"AAA_16, NACHT, Ras, Roc, AAA_22, ABC_tran, Dynamin_N, MMR_HSR1, EF-hand_1, EF-hand_6, EF-hand_7, EF_assoc_1, AAA_7, Viral_helicase1, ATPase_2, cobW, G-alpha, PduV-EutP, RNA_helicase, EF-hand_8, AAA_28, DUF87, EF_assoc_2, EF-hand_10, EF-hand_4, EF-hand_5, FtsK_SpoIIIE, SPARC_Ca_bdg, TrwB_AAD_bind",29
+"RAL_EPZ31093-1","Cryptomycota","Cryptomycota - intracellular parasite","Fungi","Parasite","6C/NA/NA","RAL","Not",395,12,"DASH_Duo1",1
+"RAL_EPZ32008-1","Cryptomycota","Cryptomycota - intracellular parasite","Fungi","Parasite","6C/NA/NA","RAL","Not",266,12,"PRP9_N",1
+"RAL_EPZ32195-1","Cryptomycota","Cryptomycota - intracellular parasite","Fungi","Parasite","6C/NA/NA","RAL","Not",534,10,"Glyco_hydro_18",1
+"RAL_EPZ32281-1","Cryptomycota","Cryptomycota - intracellular parasite","Fungi","Parasite","6C/NA/NA","RAL","Not",985,17,"STAG, SANT_DAMP1_like, UPF0058",3
+"RAL_EPZ32734-1","Cryptomycota","Cryptomycota - intracellular parasite","Fungi","Parasite","6C/NA/NA","RAL","Not",357,9,"DUF1752",1
+"RAL_EPZ34924-1","Cryptomycota","Cryptomycota - intracellular parasite","Fungi","Parasite","6C/NA/NA","RAL","Secreted",2308,41,"ABC1, APH, Exop_C, Kinase-like, MEKK4_N, PK_Tyr_Ser-Thr, Pkinase, Pkinase_fungal, Seadorna_VP7, TCAD9, XRN_N, Y1_Tnp",12
+"RAL_EPZ35507-1","Cryptomycota","Cryptomycota - intracellular parasite","Fungi","Parasite","6C/NA/NA","RAL","Not",1811,35,NA,0
+"RAL_EPZ35661-1","Cryptomycota","Cryptomycota - intracellular parasite","Fungi","Parasite","6C/NA/NA","RAL","Not",704,15,"SAC3_GANP",1
+"RIR_XP_025168103-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RIR","Not",345,11,"CCDC32",1
+"RIR_XP_025170185-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RIR","Secreted",275,14,NA,0
+"RIR_XP_025170318-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RIR","Not",1170,34,"AAA_16, AAA_5, NACHT, Roc, RsgA_GTPase, AAA, AAA_22, ABC_tran, APG6_N, AIG1, MMR_HSR1, AAA_7, TniB, AAA_29, SRP54, RNA_helicase, TsaE, FtsK_SpoIIIE, IstB_IS21, T2SSE",20
+"RIR_XP_025171537-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RIR","Not",460,14,"TATR",1
+"RIR_XP_025174250-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","NA/NA/Hyd2","RIR","Not",167,13,"Hydrophobin_2, Rhodanese_C, Metallothio_Pro, VATC",4
+"RIR_XP_025176220-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RIR","Secreted",659,20,"SH3_1, SH3_2, SH3_9",3
+"RIR_XP_025177097-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RIR","Not",474,14,"TPR_17, TPR_6, MIT, TEX29, DUF6250, Sel1, YfbU",7
+"RIR_XP_025178134-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RIR","Not",1036,14,"Ank_2, Ion_trans",2
+"RIR_XP_025178365-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RIR","Not",368,13,"PDR_CDR, DUF4834, Baculo_11_kDa, DHHC, DUF3139",5
+"RIR_XP_025181968-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RIR","Not",834,23,"LSM, Topoisom_bac, Toprim, zf-C4_Topoisom",4
+"RIR_XP_025182758-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RIR","Not",888,18,"PRP1_N",1
+"RIR_XP_025183401-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RIR","Secreted",99,12,NA,0
+"RIR_XP_025184894-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RIR","Not",1647,24,"GAF, GAF_2, GAF_3, HATPase_c, HATPase_c_2, HATPase_c_5, HisKA, PAS_4, PAS_9, Response_reg",10
+"RIR_XP_025185389-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RIR","Not",501,8,"Abhydrolase_6, Abhydrolase_3, COesterase, Say1_Mug180",4
+"RIR_XP_025187667-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RIR","Not",267,12,"F-box, F-box_4, F-box-like",3
+"RIR_XP_025188535-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RIR","Not",485,14,"ABC1, PK_Tyr_Ser-Thr, Pkinase, Pkinase_fungal, DUF3788",5
+"RIR_XP_025189029-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RIR","Not",694,16,"AAA, AAA_22, AAA_24, AAA_14, SieB, AAA_25, Crinkler",7
+"RIR_XP_025189785-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RIR","Not",167,10,"ETRAMP",1
+"RMI_XP_023460957-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RMI","Not",573,7,"SWI-SNF_Ssr4, Ank, Ank_2, Ank_3, Ank_4, Ank_5, Exonuc_VII_L, FUT8_N_cat, KilA-N, Phasin",10
+"RMI_XP_023461598-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RMI","Not",737,19,"Fungal_trans, Zn_clus",2
+"RMI_XP_023462999-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RMI","Not",351,7,"Sir1",1
+"RMI_XP_023463157-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RMI","Not",574,26,"SAD_SRA, zf-RING_5, Prok-RING_4, PHD, PHD_2, OrfB_Zn_ribbon, ubiquitin",7
+"RMI_XP_023463527-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RMI","Not",605,18,"SET",1
+"RMI_XP_023464376-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RMI","Not",195,6,"DSPc, Y_phosphatase",2
+"RMI_XP_023465715-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RMI","Not",182,11,NA,0
+"RMI_XP_023466654-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RMI","Not",660,14,"TPR_2, TPR_12, TPR_8, DUF3808",4
+"RMI_XP_023466713-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RMI","Not",184,11,NA,0
+"RMI_XP_023466817-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RMI","Not",703,15,"VTC",1
+"RMI_XP_023466868-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RMI","Not",235,9,"TPR_1, TPR_14, TPR_16, TPR_2, TPR_12, TPR_17, TPR_19, TPR_6, TPR_10, TPR_11, TPR_4, TPR_8",12
+"RMI_XP_023467812-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RMI","Not",237,13,"Pes-10",1
+"RMI_XP_023468162-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RMI","Not",1440,22,"Arm, Atx10homo_assoc, SPRY, Cnd1, Vac14_Fab1_bd, Auxin_canalis, MFMR_assoc, Neuralized, PP_M1, V-ATPase_H_C",10
+"RMI_XP_023468395-1","Mucoromycota","Mycorrhizal","Plant","Mutualist","6C/NA/NA","RMI","Not",676,18,"AMP-binding",1
+"SCE_NP_009469-2","Ascomycota","Brewer's yeast",NA,"Yeast","6C/NA/NA","SCE","Not",758,16,"TPR_1, TPR_14, TPR_16, TPR_2, ANAPC3, TPR_12, TPR_17, TPR_19, TPR_6, TPR_9, TPR_10, TPR_11, TPR_20, TPR_7, TPR_8, Sel1, BTAD, CSG2, DUF3856, SRP_TPR_like, TPR_15",21
+"SCE_NP_010667-1","Ascomycota","Brewer's yeast",NA,"Yeast","6C/NA/NA","SCE","Not",1009,21,"zf-C3HC4_3, LIM, RhoGAP, Latarcin",4
+"SCE_NP_011854-1","Ascomycota","Brewer's yeast",NA,"Yeast","6C/NA/NA","SCE","Not",330,7,"bZIP_1, bZIP_2, DUF349, RIC3, TPR_MLP1_2, WDCP",6
+"SCE_NP_013515-3","Ascomycota","Brewer's yeast",NA,"Yeast","6C/NA/NA","SCE","Not",241,11,"DUF2530, Ctr, DUF3010",3
+"SCE_NP_013635-1","Ascomycota","Brewer's yeast",NA,"Yeast","6C/NA/NA","SCE","Not",944,19,"Zn_clus, DUF4446",2
+"SCE_NP_116603-1","Ascomycota","Brewer's yeast",NA,"Yeast","6C/NA/NA","SCE","Not",465,22,"Fungal_trans, Zn_clus, GxDLY",3
+"SCO_NP_625115-1","Bacteria","Bacteria with chaplins",NA,"Saprotroph","6C/NA/NA","SCO","Not",250,9,"CCG",1
+"SCO_NP_630999-1","Bacteria","Bacteria with chaplins",NA,"Saprotroph","6C/NA/NA","SCO","Not",149,8,NA,0
+"SCO_NP_631615-1","Bacteria","Bacteria with chaplins",NA,"Saprotroph","6C/NA/NA","SCO","Not",998,19,"Fer4_17, Fer4_8, CCG, FAD_binding_4, FAD-oxidase_C, Fer4_10, Fer4_4, Fer4_7, Fer4, Fer4_16, Fer4_2, Fer4_21, Fer4_3, Fer4_6, Fer4_9",15
+"SPU_XP_016604893-1","Chytridiomycota","Chytrid",NA,"Saprotroph","6C/NA/NA","SPU","Not",807,20,"Fungal_trans, Zn_clus",2
+"SPU_XP_016604900-1","Chytridiomycota","Chytrid",NA,"Saprotroph","6C/NA/NA","SPU","Not",302,9,"MIF4G, Gcn1_N, Rod_C",3
+"SPU_XP_016606241-1","Chytridiomycota","Chytrid",NA,"Saprotroph","6C/NA/NA","SPU","Secreted",668,26,"Ax_dynein_light, CLZ, DUF5082, FlxA, HEPN_AbiU2, Knl1_RWD_C, Ldl_recept_a, Occludin_ELL, PRKCSH, PRKCSH_1, PRKCSH-like, TonB_N",12
+"SPU_XP_016607955-1","Chytridiomycota","Chytrid",NA,"Saprotroph","6C/NA/NA","SPU","Not",1660,29,"TPR_1, TPR_14, TPR_16, PPR, TPR_5, Clathrin, PPR_1, PPR_2, PPR_3, PPR_long, ECSIT, Mtf2",12
+"SPU_XP_016608191-1","Chytridiomycota","Chytrid",NA,"Saprotroph","6C/NA/NA","SPU","Not",392,9,NA,0
+"SPU_XP_016610569-1","Chytridiomycota","Chytrid",NA,"Saprotroph","6C/NA/NA","SPU","Not",754,13,"DNA_pol_E_B, Pol_alpha_B_N",2
+"SST_KIJ23716-1","Basidiomycota","saprotroph",NA,"Saprotroph","6C/NA/NA","SST","Not",263,7,"SipA",1
+"SST_KIJ24675-1","Basidiomycota","saprotroph",NA,"Saprotroph","NA/NA/Hyd2","SST","Not",143,8,"Hydrophobin_2",1
+"SST_KIJ26544-1","Basidiomycota","saprotroph",NA,"Saprotroph","6C/NA/NA","SST","Not",252,10,"Pheromone, FAM72",2
+"SST_KIJ29993-1","Basidiomycota","saprotroph",NA,"Saprotroph","NA/Hyd1/NA","SST","Secreted",129,4,"Hydrophobin",1
+"SST_KIJ32616-1","Basidiomycota","saprotroph",NA,"Saprotroph","6C/NA/NA","SST","Not",247,12,NA,0
+"SST_KIJ33986-1","Basidiomycota","saprotroph",NA,"Saprotroph","6C/NA/NA","SST","Not",311,11,NA,0
+"SST_KIJ34182-1","Basidiomycota","saprotroph",NA,"Saprotroph","6C/NA/NA","SST","Not",526,16,"F-box-like",1
+"SST_KIJ34954-1","Basidiomycota","saprotroph",NA,"Saprotroph","6C/NA/NA","SST","Not",203,8,"AAA_16, Ras, Roc, SRPRB, Arf",5
+"SST_KIJ40446-1","Basidiomycota","saprotroph",NA,"Saprotroph","6C/NA/NA","SST","Not",1203,25,"zf-U1",1
+"SST_KIJ43735-1","Basidiomycota","saprotroph",NA,"Saprotroph","6C/Hyd1/NA","SST","Secreted",107,8,"Hydrophobin",1
+"SST_KIJ43882-1","Basidiomycota","saprotroph",NA,"Saprotroph","NA/Hyd1/NA","SST","Not",291,8,"Hydrophobin, Hydrolase, HAD_2, Hydrolase_6, Hydrolase_like, PGP_phosphatase",6
+"SST_KIJ45038-1","Basidiomycota","saprotroph",NA,"Saprotroph","6C/NA/NA","SST","Not",351,24,"Copper-fist",1
+"SST_KIJ45203-1","Basidiomycota","saprotroph",NA,"Saprotroph","6C/NA/NA","SST","Not",1790,49,"ClpS, PRT6_C, zf-UBR",3
+"SST_KIJ46256-1","Basidiomycota","saprotroph",NA,"Saprotroph","6C/NA/NA","SST","Not",317,9,"F-box, F-box-like",2
+"SST_KIJ47061-1","Basidiomycota","saprotroph",NA,"Saprotroph","6C/NA/NA","SST","Not",303,9,"DDE_Tnp_4",1
+"SST_KIJ47617-1","Basidiomycota","saprotroph",NA,"Saprotroph","NA/Hyd1/NA","SST","Not",696,13,"Hydrophobin, Abhydrolase_1, Abhydrolase_6, Hydrolase_4, AMP-binding, PP-binding, TauE, Thioesterase",8
+"SST_KIJ48152-1","Basidiomycota","saprotroph",NA,"Saprotroph","6C/NA/NA","SST","Not",157,16,"EGF_2",1
+"SST_KIJ49237-1","Basidiomycota","saprotroph",NA,"Saprotroph","NA/Hyd1/NA","SST","Secreted",78,5,"Hydrophobin",1
+"SST_KIJ49983-1","Basidiomycota","saprotroph",NA,"Saprotroph","6C/NA/NA","SST","Not",722,41,NA,0
+"SST_KIJ50778-1","Basidiomycota","saprotroph",NA,"Saprotroph","6C/Hyd1/NA","SST","Secreted",106,8,"Hydrophobin",1
+"SST_KIJ54660-1","Basidiomycota","saprotroph",NA,"Saprotroph","NA/Hyd1/NA","SST","Not",645,7,"Hydrophobin",1
+"SST_KIJ55553-1","Basidiomycota","saprotroph",NA,"Saprotroph","6C/NA/NA","SST","Secreted",945,42,"Disintegrin, Pep_M12B_propep, Reprolysin, Reprolysin_2, Reprolysin_3, Reprolysin_4, Reprolysin_5, ADAM_CR_2, Peptidase_M66",9
+"THA_XP_024767192-1","Ascomycota","Antagonistic to plant pathogens","Plant","Mutualist","6C/NA/NA","THA","Not",488,21,"Zn_clus",1
+"THA_XP_024768118-1","Ascomycota","Antagonistic to plant pathogens","Plant","Mutualist","6C/NA/NA","THA","Not",74,8,NA,0
+"THA_XP_024768150-1","Ascomycota","Antagonistic to plant pathogens","Plant","Mutualist","6C/NA/NA","THA","Secreted",605,14,"DUF515, Glyco_hydro_71",2
+"THA_XP_024769896-1","Ascomycota","Antagonistic to plant pathogens","Plant","Mutualist","6C/NA/NA","THA","Not",271,10,NA,0
+"THA_XP_024769897-1","Ascomycota","Antagonistic to plant pathogens","Plant","Mutualist","6C/NA/NA","THA","Not",112,7,NA,0
+"THA_XP_024770052-1","Ascomycota","Antagonistic to plant pathogens","Plant","Mutualist","6C/NA/NA","THA","Not",115,7,NA,0
+"THA_XP_024771141-1","Ascomycota","Antagonistic to plant pathogens","Plant","Mutualist","6C/NA/NA","THA","Not",607,23,"Fungal_trans, Zn_clus",2
+"THA_XP_024772090-1","Ascomycota","Antagonistic to plant pathogens","Plant","Mutualist","6C/NA/NA","THA","Not",149,8,NA,0
+"THA_XP_024772805-1","Ascomycota","Antagonistic to plant pathogens","Plant","Mutualist","6C/NA/NA","THA","Not",1093,19,"AAA_16, NACHT, AAA_22, Rad17, NACHT_N, GRIP",6
+"THA_XP_024774096-1","Ascomycota","Antagonistic to plant pathogens","Plant","Mutualist","6C/NA/NA","THA","Not",550,20,NA,0
+"THA_XP_024775029-1","Ascomycota","Antagonistic to plant pathogens","Plant","Mutualist","6C/NA/NA","THA","Not",595,12,"Forkhead",1
+"THA_XP_024776623-1","Ascomycota","Antagonistic to plant pathogens","Plant","Mutualist","6C/NA/Hyd2","THA","Secreted",92,8,"Hydrophobin_2",1
+"THA_XP_024778914-1","Ascomycota","Antagonistic to plant pathogens","Plant","Mutualist","6C/NA/NA","THA","Not",733,17,"zf-Di19",1
+"THA_XP_024779161-1","Ascomycota","Antagonistic to plant pathogens","Plant","Mutualist","6C/NA/NA","THA","Not",1146,10,"AAA_16, AAA_5, AAA, AAA_22, RuvB_N, RNA_helicase, AAA_11, AAA_33, CTNNBL, DUF573",10
+"THA_XP_024779571-1","Ascomycota","Antagonistic to plant pathogens","Plant","Mutualist","6C/NA/NA","THA","Not",758,26,"Fungal_trans, Zn_clus",2
+"THA_XP_024779844-1","Ascomycota","Antagonistic to plant pathogens","Plant","Mutualist","NA/NA/Hyd2","THA","Secreted",172,7,"Hydrophobin_2",1
+"THA_XP_024779851-1","Ascomycota","Antagonistic to plant pathogens","Plant","Mutualist","6C/NA/NA","THA","Secreted",121,6,NA,0
+"THA_XP_024780126-1","Ascomycota","Antagonistic to plant pathogens","Plant","Mutualist","6C/NA/Hyd2","THA","Secreted",111,8,"Hydrophobin_2",1
+"TMA_KAF8218447-1","Basidiomycota","mycorrhizal","Plant","Mutualist","6C/NA/NA","TMA","Secreted",111,8,NA,0
+"TMA_KAF8220143-1","Basidiomycota","mycorrhizal","Plant","Mutualist","6C/NA/NA","TMA","Not",160,10,"DUF5557",1
+"TMA_KAF8220611-1","Basidiomycota","mycorrhizal","Plant","Mutualist","6C/NA/NA","TMA","Not",114,9,NA,0
+"TMA_KAF8220692-1","Basidiomycota","mycorrhizal","Plant","Mutualist","6C/NA/NA","TMA","Not",155,8,"Linocin_M18",1
+"TMA_KAF8220914-1","Basidiomycota","mycorrhizal","Plant","Mutualist","6C/NA/NA","TMA","Not",112,11,NA,0
+"TMA_KAF8220946-1","Basidiomycota","mycorrhizal","Plant","Mutualist","6C/NA/NA","TMA","Not",184,8,"CHORD, Lge1",2
+"TMA_KAF8221802-1","Basidiomycota","mycorrhizal","Plant","Mutualist","6C/NA/NA","TMA","Not",333,11,NA,0
+"TMA_KAF8222347-1","Basidiomycota","mycorrhizal","Plant","Mutualist","6C/NA/NA","TMA","Not",171,10,NA,0
+"TMA_KAF8224738-1","Basidiomycota","mycorrhizal","Plant","Mutualist","6C/NA/NA","TMA","Not",242,12,NA,0
+"TMA_KAF8225742-1","Basidiomycota","mycorrhizal","Plant","Mutualist","6C/NA/NA","TMA","Not",274,11,"RICTOR_V",1
+"TMA_KAF8225790-1","Basidiomycota","mycorrhizal","Plant","Mutualist","6C/NA/NA","TMA","Not",1626,14,"AAA_16, AAA_5, Roc, RsgA_GTPase, DEAD, ResIII, AAA, AAA_22, AAA_24, ABC_tran, Dynamin_N, MMR_HSR1, AAA_18, AAA_7, AAA_21, AAA_23, AAA_29, AAA_30, SMC_N, ATPase_2, cobW, PduV-EutP, DUF87, FtsK_SpoIIIE, T2SSE, AAA_25, AAA_15, ABC_membrane, Adeno_IVa2, DUF6418, Pox_A32",31
+"TMA_KAF8227161-1","Basidiomycota","mycorrhizal","Plant","Mutualist","6C/NA/NA","TMA","Not",229,11,"DUF6057",1
+"TMA_KAF8227592-1","Basidiomycota","mycorrhizal","Plant","Mutualist","6C/NA/NA","TMA","Not",132,7,"F-box",1
+"TMA_KAF8229519-1","Basidiomycota","mycorrhizal","Plant","Mutualist","6C/NA/NA","TMA","Not",161,11,NA,0
+"TMA_KAF8231641-1","Basidiomycota","mycorrhizal","Plant","Mutualist","6C/NA/NA","TMA","Not",801,14,"CENP-F_leu_zip, Cnn_1N, CP12, GAS, Imm5, MetOD2, Tropomyosin_1",7
+"TMA_KAF8233107-1","Basidiomycota","mycorrhizal","Plant","Mutualist","6C/NA/NA","TMA","Not",473,21,"CxC6, CxC5",2
+"TMA_KAF8234245-1","Basidiomycota","mycorrhizal","Plant","Mutualist","6C/NA/NA","TMA","Not",99,8,NA,0
+"TMA_KAF8234731-1","Basidiomycota","mycorrhizal","Plant","Mutualist","6C/NA/NA","TMA","Not",129,11,NA,0
+"TMA_KAF8235457-1","Basidiomycota","mycorrhizal","Plant","Mutualist","6C/NA/NA","TMA","Not",281,13,"CxC6, CxC5",2
+"TMA_KAF8237072-1","Basidiomycota","mycorrhizal","Plant","Mutualist","6C/NA/NA","TMA","Not",71,6,"UvrD_C_2",1
+"TMA_KAF8237776-1","Basidiomycota","mycorrhizal","Plant","Mutualist","6C/NA/NA","TMA","Not",482,22,"DEAD, Helicase_C, ResIII, Reo_sigmaC_M",4
+"TMA_KAF8238824-1","Basidiomycota","mycorrhizal","Plant","Mutualist","6C/NA/NA","TMA","Not",988,12,NA,0
+"TMA_KAF8238974-1","Basidiomycota","mycorrhizal","Plant","Mutualist","6C/NA/NA","TMA","Not",843,27,"HATPase_c, DNA_mis_repair, HATPase_c_3, MutL_C",4
+"TMA_KAF8239817-1","Basidiomycota","mycorrhizal","Plant","Mutualist","6C/NA/NA","TMA","Not",82,11,NA,0
+"TMA_KAF8240499-1","Basidiomycota","mycorrhizal","Plant","Mutualist","6C/NA/NA","TMA","Not",535,12,NA,0
+"TMA_KAF8240924-1","Basidiomycota","mycorrhizal","Plant","Mutualist","6C/NA/NA","TMA","Not",237,8,NA,0
+"UMA_XP_011388041-1","Basidiomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","UMA","Not",922,20,"RAP1, Arm, HEAT, HEAT_2, HEAT_EZ, DUF4042",6
+"UMA_XP_011389080-1","Basidiomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","UMA","Secreted",904,42,"Disintegrin, Pep_M12B_propep, Reprolysin, Reprolysin_2, Reprolysin_3, Reprolysin_4, Reprolysin_5, ADAM_CR_2, Peptidase_M66, ASFV_J13L, Peptidase_M43",11
+"UMA_XP_011389838-1","Basidiomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","UMA","Not",175,16,NA,0
+"UMA_XP_011391376-1","Basidiomycota","Plant pathogen","Plant","Pathogen","6C/Hyd1/NA","UMA","Secreted",118,8,"Hydrophobin",1
+"URA_jgi_Umbra1_223278_fgenesh1_kg-5___642___combest_scaffold_5_102600","Mucoromycota","Saprotroph",NA,"Saprotroph","6C/NA/NA","URA","Not",71,8,"CYSTM, DUF2076",2
+"URA_jgi_Umbra1_228923_fgenesh1_kg-11___221___combest_scaffold_11_9992","Mucoromycota","Saprotroph",NA,"Saprotroph","6C/NA/NA","URA","Not",970,16,NA,0
+"URA_jgi_Umbra1_237142_fgenesh1_kg-21___340___combest_scaffold_21_44641","Mucoromycota","Saprotroph",NA,"Saprotroph","6C/NA/NA","URA","Not",531,10,NA,0
+"URA_jgi_Umbra1_252380_fgenesh1_kg-50___310___combest_scaffold_50_105325","Mucoromycota","Saprotroph",NA,"Saprotroph","6C/NA/NA","URA","Secreted",531,22,"Adeno_E3_CR2, SH3_1, SH3_9",3
+"URA_jgi_Umbra1_256302_fgenesh1_kg-62___162___combest_scaffold_62_120827","Mucoromycota","Saprotroph",NA,"Saprotroph","6C/NA/NA","URA","Not",274,9,"zf-C3HC4, zf-C3HC4_2, zf-RING_2, zf-RING_5, zf-RING_UBOX, zf-rbx1, zf-RING_11, zf-ANAPC11, PHD, FHA, Yop-YscD_cpl",11
+"URA_jgi_Umbra1_260967_fgenesh1_kg-84___92___combest_scaffold_84_141799","Mucoromycota","Saprotroph",NA,"Saprotroph","6C/NA/NA","URA","Not",435,9,"PBP1_TM, DUF2070, ODV-E18, Kei1, MnhB, Phtf-FEM1B_bdg",6
+"VNO_XP_028491501-1","Ascomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","VNO","Not",548,8,"MFS_1, Sugar_tr, TRI12, Retrotran_gag_3",4
+"VNO_XP_028492308-1","Ascomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","VNO","Secreted",301,19,"CD99L2, Amelogenin, Collagen, DUF4573, Late_protein_L2",5
+"VNO_XP_028492781-1","Ascomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","VNO","Not",886,30,"zf-C2H2, zf-C2H2_4, zf-met, zf-C2H2_6, zf_UBZ, zf-LYAR",6
+"VNO_XP_028495153-1","Ascomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","VNO","Not",312,13,"DUF1776",1
+"VNO_XP_028496133-1","Ascomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","VNO","Not",867,21,"Ank, Ank_2, Ank_3, Ank_4, Ank_5, PK_Tyr_Ser-Thr, Pkinase",7
+"VNO_XP_028496936-1","Ascomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","VNO","Not",818,19,"Fungal_trans",1
+"VNO_XP_028497928-1","Ascomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","VNO","Not",559,11,"Amidase",1
+"VNO_XP_028498567-1","Ascomycota","Plant pathogen","Plant","Pathogen","6C/NA/NA","VNO","Secreted",129,12,NA,0

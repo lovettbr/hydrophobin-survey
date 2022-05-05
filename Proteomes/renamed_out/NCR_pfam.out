@@ -1,0 +1,14 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NCR_XP_959282.2      -          Hydrophobin_2        PF06766.12   8.4e-28   95.4  10.3   1.2e-27   95.0  10.3   1.2   1   0   0   1   1   1   1 hydrophobin [Neurospora crassa OR74A]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Profiles/Hydrophobins.hmm
+# Target file:     renamed/NCR.faa
+# Option settings: hmmsearch --tblout renamed_out/NCR_pfam.out ../Profiles/Hydrophobins.hmm renamed/NCR.faa 
+# Current dir:     /Users/brianlovett/Desktop/Hydrophobin Survey/Proteomes
+# Date:            Tue Mar 22 10:09:41 2022
+# [ok]

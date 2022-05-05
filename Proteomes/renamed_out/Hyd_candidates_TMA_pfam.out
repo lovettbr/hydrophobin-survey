@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+TMA_KAF8235005.1     -          Hydrophobin          PF01185.19   2.9e-29   93.4   9.6   3.4e-29   93.2   9.6   1.0   1   0   0   1   1   1   1 -
+TMA_KAF8228375.1     -          Hydrophobin          PF01185.19   5.6e-26   82.8  12.1   6.8e-26   82.6  12.1   1.1   1   0   0   1   1   1   1 -
+TMA_KAF8236276.1     -          Hydrophobin          PF01185.19   1.4e-24   78.3   9.7   1.6e-24   78.2   9.7   1.0   1   0   0   1   1   1   1 -
+TMA_KAF8241131.1     -          Hydrophobin          PF01185.19   6.5e-24   76.2   8.2   8.5e-24   75.8   8.2   1.1   1   0   0   1   1   1   1 -
+TMA_KAF8239593.1     -          Hydrophobin          PF01185.19   9.5e-18   56.5  11.8   1.2e-17   56.1  11.8   1.1   1   0   0   1   1   1   1 -
+TMA_KAF8241160.1     -          Hydrophobin          PF01185.19   1.5e-16   52.7   5.4   2.2e-16   52.1   5.4   1.3   1   0   0   1   1   1   1 -
+TMA_KAF8228349.1     -          Hydrophobin          PF01185.19     8e-16   50.3  11.2   9.6e-16   50.0  11.2   1.1   1   0   0   1   1   1   1 -
+TMA_KAF8228350.1     -          Hydrophobin          PF01185.19   1.2e-15   49.7   4.9   1.4e-15   49.5   4.7   1.3   1   1   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Profiles/Hydrophobins.hmm
+# Target file:     renamed/Hyd_candidates_TMA.faa
+# Option settings: hmmsearch --tblout renamed_out/Hyd_candidates_TMA_pfam.out ../Profiles/Hydrophobins.hmm renamed/Hyd_candidates_TMA.faa 
+# Current dir:     /Users/brianlovett/Desktop/Hydrophobin Survey/Proteomes
+# Date:            Tue Mar 22 10:09:40 2022
+# [ok]

@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+CPA_KAF3767202.1     -          Hydrophobin          PF01185.19     2e-08   34.1   2.6   3.4e-08   33.4   2.6   1.3   1   0   0   1   1   1   1 hypothetical protein M406DRAFT_328297 [Cryphonectria parasitica EP155]
+CPA_KAF3766717.1     -          Hydrophobin_2        PF06766.12   5.5e-28   96.1   9.0   7.1e-28   95.7   9.0   1.1   1   0   0   1   1   1   1 hypothetical protein M406DRAFT_53268 [Cryphonectria parasitica EP155]
+CPA_KAF3762058.1     -          Hydrophobin_2        PF06766.12     7e-28   95.8  10.7   8.8e-28   95.4  10.7   1.1   1   0   0   1   1   1   1 Cryparin [Cryphonectria parasitica EP155]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Profiles/Hydrophobins.hmm
+# Target file:     renamed/CPA.faa
+# Option settings: hmmsearch --tblout renamed_out/CPA_pfam.out ../Profiles/Hydrophobins.hmm renamed/CPA.faa 
+# Current dir:     /Users/brianlovett/Desktop/Hydrophobin Survey/Proteomes
+# Date:            Tue Mar 22 10:09:37 2022
+# [ok]

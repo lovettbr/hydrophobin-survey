@@ -1,0 +1,22 @@
+#                                                                                                                     --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                                              accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                                      ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+LGO_jgi|LeugonAS2_1|718679|CE718678_13649                                  -          Hydrophobin          PF01185.19   3.2e-26   82.8   7.2   3.8e-26   82.5   7.2   1.1   1   0   0   1   1   1   1 -
+LGO_jgi|LeugonAS2_1|2142293|fgenesh1_pg.110_#_10                           -          Hydrophobin          PF01185.19   5.7e-26   82.0   7.8   6.7e-26   81.7   7.8   1.1   1   0   0   1   1   1   1 -
+LGO_jgi|LeugonAS2_1|1852652|e_gw1.157.19.1                                 -          Hydrophobin          PF01185.19   2.3e-20   64.0   8.6   2.9e-20   63.7   8.6   1.1   1   0   0   1   1   1   1 -
+LGO_jgi|LeugonAS2_1|591107|CE591106_178308                                 -          Hydrophobin          PF01185.19   4.7e-19   59.8  10.1   7.2e-19   59.2  10.1   1.3   1   0   0   1   1   1   1 -
+LGO_jgi|LeugonAS2_1|852456|CE852455_197                                    -          Hydrophobin          PF01185.19   4.1e-18   56.8   7.1     5e-18   56.5   7.1   1.1   1   0   0   1   1   1   1 -
+LGO_jgi|LeugonAS2_1|1862752|e_gw1.426.1.1                                  -          Hydrophobin          PF01185.19   6.5e-18   56.1   7.1     8e-18   55.9   7.1   1.1   1   0   0   1   1   1   1 -
+LGO_jgi|LeugonAS2_1|846020|CE846019_331                                    -          Hydrophobin          PF01185.19   6.5e-18   56.1   7.1     8e-18   55.9   7.1   1.1   1   0   0   1   1   1   1 -
+LGO_jgi|LeugonAS2_1|2032297|fgenesh1_kg.442_#_89_#_TRINITY_DN8821_c2_g4_i1 -          Hydrophobin          PF01185.19   3.5e-14   44.2   7.5   4.9e-14   43.7   7.5   1.2   1   0   0   1   1   1   1 -
+LGO_jgi|LeugonAS2_1|1934362|fgenesh1_kg.29_#_380_#_TRINITY_DN7585_c0_g3_i2 -          Hydrophobin          PF01185.19   5.6e-11   33.9   8.5   3.9e-09   28.0   8.5   2.1   1   1   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Profiles/Hydrophobins.hmm
+# Target file:     renamed/Hyd_candidates_LGO.faa
+# Option settings: hmmsearch --tblout renamed_out/Hyd_candidates_LGO_pfam.out ../Profiles/Hydrophobins.hmm renamed/Hyd_candidates_LGO.faa 
+# Current dir:     /Users/brianlovett/Desktop/Hydrophobin Survey/Proteomes
+# Date:            Tue Mar 22 10:09:39 2022
+# [ok]

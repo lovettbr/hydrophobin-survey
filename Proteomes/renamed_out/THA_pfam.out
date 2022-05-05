@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+THA_XP_024771806.1   -          Hydrophobin_2        PF06766.12   1.3e-27   95.2  13.6   1.7e-27   94.8  13.6   1.1   1   0   0   1   1   1   1 hypothetical protein M431DRAFT_147959 [Trichoderma harzianum CBS 226.95]
+THA_XP_024773602.1   -          Hydrophobin_2        PF06766.12   1.7e-27   94.8  12.0   2.8e-27   94.1  12.0   1.3   1   0   0   1   1   1   1 hypothetical protein M431DRAFT_86900 [Trichoderma harzianum CBS 226.95]
+THA_XP_024767883.1   -          Hydrophobin_2        PF06766.12   3.8e-23   80.9  11.3   4.4e-23   80.7  11.3   1.1   1   0   0   1   1   1   1 hypothetical protein M431DRAFT_45093, partial [Trichoderma harzianum CBS 226.95]
+THA_XP_024780278.1   -          Hydrophobin_2        PF06766.12   1.6e-22   78.8  11.7     2e-22   78.6  11.7   1.1   1   0   0   1   1   1   1 hypothetical protein M431DRAFT_489366 [Trichoderma harzianum CBS 226.95]
+THA_XP_024780126.1   -          Hydrophobin_2        PF06766.12   3.5e-19   68.2   6.1   4.4e-19   67.9   6.1   1.1   1   0   0   1   1   1   1 hypothetical protein M431DRAFT_476937 [Trichoderma harzianum CBS 226.95]
+THA_XP_024779844.1   -          Hydrophobin_2        PF06766.12     1e-18   66.7   3.2   1.4e-18   66.2   3.2   1.2   1   0   0   1   1   1   1 hypothetical protein M431DRAFT_267 [Trichoderma harzianum CBS 226.95]
+THA_XP_024777851.1   -          Hydrophobin_2        PF06766.12   3.6e-17   61.7   8.1   5.8e-17   61.1   8.1   1.3   1   0   0   1   1   1   1 hypothetical protein M431DRAFT_3176 [Trichoderma harzianum CBS 226.95]
+THA_XP_024776623.1   -          Hydrophobin_2        PF06766.12   7.6e-17   60.7   8.4   9.6e-17   60.4   8.4   1.1   1   0   0   1   1   1   1 hypothetical protein M431DRAFT_493416 [Trichoderma harzianum CBS 226.95]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Profiles/Hydrophobins.hmm
+# Target file:     renamed/THA.faa
+# Option settings: hmmsearch --tblout renamed_out/THA_pfam.out ../Profiles/Hydrophobins.hmm renamed/THA.faa 
+# Current dir:     /Users/brianlovett/Desktop/Hydrophobin Survey/Proteomes
+# Date:            Tue Mar 22 10:09:44 2022
+# [ok]

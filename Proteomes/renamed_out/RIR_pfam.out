@@ -1,0 +1,14 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+RIR_XP_025174250.1   -          Hydrophobin_2        PF06766.12      0.75   10.3   7.4     0.099   13.1   2.7   2.1   2   0   0   2   2   2   0 hypothetical protein GLOIN_2v1647061, partial [Rhizophagus irregularis DAOM 181602=DAOM 197198]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Profiles/Hydrophobins.hmm
+# Target file:     renamed/RIR.faa
+# Option settings: hmmsearch --tblout renamed_out/RIR_pfam.out ../Profiles/Hydrophobins.hmm renamed/RIR.faa 
+# Current dir:     /Users/brianlovett/Desktop/Hydrophobin Survey/Proteomes
+# Date:            Tue Mar 22 10:09:43 2022
+# [ok]

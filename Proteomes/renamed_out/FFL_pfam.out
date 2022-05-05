@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+FFL_RSL75671.1       -          Hydrophobin          PF01185.19   2.5e-15   56.8   7.9   2.5e-15   56.8   7.9   1.7   2   0   0   2   2   2   1 hypothetical protein CEP51_010658 [Fusarium floridanum]
+FFL_RSL79405.1       -          Hydrophobin_2        PF06766.12   9.8e-28   95.8   8.5   9.8e-28   95.8   8.5   1.6   2   0   0   2   2   2   1 Trihydrophobin [Fusarium floridanum]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ../Profiles/Hydrophobins.hmm
+# Target file:     renamed/FFL.faa
+# Option settings: hmmsearch --tblout renamed_out/FFL_pfam.out ../Profiles/Hydrophobins.hmm renamed/FFL.faa 
+# Current dir:     /Users/brianlovett/Desktop/Hydrophobin Survey/Proteomes
+# Date:            Tue Mar 22 10:09:38 2022
+# [ok]
