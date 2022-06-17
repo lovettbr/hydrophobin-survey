@@ -259,50 +259,6 @@ out3=out2 %>%
   group_by(Group, Prediction) %>%
   summarize(n=length(Accession), Genomes=toString(unique(Genome)), Genome_count=length(unique(Genome)), Accessions=toString(Accession))
 
-ind=data.frame(Indicator=c("OUL_CU",
-                                  "POS_VMH2",
-                                  "SCOM_SC3",
-                                  "XPA_XPH1",
-                                  "SCOM_SC4",
-                                  "SCOM_SC16",
-                                  "AFU_RodE",
-                                  "GFR_HGF1",
-                                  "TAS_TasHyd1",
-                                  "MAN_SSG1",
-                                  "CFU_TH1",
-                                  "CPA_CRP",
-                                  "MOR_MHP1",
-                                  "AFU_RodC",
-                                  "AFU_RodA",
-                                  "MOR_MPG1", 
-                                  "PCA_HYDX",  
-                                  "NCR_NC2", 
-                                  "TRE_HFBI", 
-                                  "TRE_HFBII",
-                                  "NCR_EAS"),
-                      Group=c("Group 1",
-                              "Group 10",
-                              "Group 10",
-                              "Group 79",
-                              "Group 10",
-                              "Group 117",
-                              "Group 39",
-                              "Group 10",
-                              "Group 5",
-                              "Group 117",
-                              "Group 69",
-                              "Group 69",
-                              "Group 69",
-                              "Group 118",
-                              "Group 118",
-                              "Group 79",
-                              "Group 85",
-                              "Group 69",
-                              "Group 69",
-                              "Group 69",
-                              "Group 82"))
-
-#write.csv(ind, "Input/Indicator_groups.csv", row.names=F)
 ind=read.csv("Input/Indicator_groups.csv")
 
 indicators=ind %>%
