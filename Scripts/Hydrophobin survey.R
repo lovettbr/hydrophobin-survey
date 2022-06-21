@@ -18,6 +18,9 @@ library(viridis)
 library(broom)
 library(cowplot)
 library(patchwork)
+library(agricolae)
+library(UpSetR)
+library(scales)
 
 ##In Terminal##
 #Load files into folder Proteomes
@@ -461,7 +464,6 @@ seq2=bind_rows(seq.trim, seq.un)
 
 #seqinr::write.fasta(sequences=seq2$Seq, names=seq2$Accession, file.out="All_strict_candidates.fa")
 
-
 ####8C Pattern Finding####
 eight_C="C[^C]+CC[^C]+C[^C]+C[^C]+CC[^C]+C"
 
@@ -669,7 +671,6 @@ many3 = many %>%
 updat=many3$Accessions
 names(updat)=many3$Category
 
-library(UpSetR)
 upset(fromList(updat), order.by="freq", nsets=20, nintersects=29)
 
 many4=data.frame(Names=names(updat))
@@ -690,8 +691,6 @@ many5=many4 %>%
   #filter(Names!=Names2) %>%
   rowwise() %>%
   mutate(Overlap=Count/Total)
-
-library(scales)
 
 ggplot(many5, aes(Names, Names2, fill=Overlap))+geom_tile()+theme+scale_fill_viridis_c(labels = scales::percent)+theme(axis.text.x=element_text(angle=90))
 
@@ -894,8 +893,7 @@ pca.dist=dist.pca %>%
   select(1:1263) %>%
   prcomp()
 
-#Adjust guides and indicator information
-
+#Adjusting guides and indicator information
 pal_named=c(pal3$hsv, "white", "red")
 names(pal_named)=str_replace(c(pal3$CG, "No Class; No Group", "Indicator"), "Class 4", "No Class")
 
@@ -929,6 +927,8 @@ niche.pca.plt=pca.dist %>%
   mutate(CG=str_replace(CG, "Class 4", "No Class")) %>%
   ggplot(aes(.fittedPC1, .fittedPC2, color=Niche, label=Accession, text=Group, shape=Host))+
   geom_point(size = 3) + ggrepel::geom_label_repel(aes(label=Indicator), fill= alpha(c("white"),0.5), segment.color="white", color="black", segment.curvature=0.3, box.padding = 0.5)+ background_grid()+guides(color=guide_legend(ncol=1, order=1), label="none")+theme_dark()+scale_color_manual(values = c("red", "blue", "green", "yellow"))+theme(legend.text=element_text(color="white", size=12), legend.background=element_rect(fill="grey50", color="white"), legend.position = c(0.51, 0.38))+guides(shape=guide_legend("Host", nrow=1, order=2, color="white", title.position="left"))+theme(text=element_text(size=20), legend.box = "horizontal",  legend.box.just="bottom", legend.title=element_text(color="white"))+xlab("PC1")+ylab("PC2")
+
+ggplotly(niche.pca.plt)
 
 niche.pca.plt2=pca.dist %>%
   augment(dist.pca) %>%
