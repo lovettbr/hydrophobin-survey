@@ -21,6 +21,7 @@ library(patchwork)
 library(agricolae)
 library(UpSetR)
 library(scales)
+library(ggforce)
 
 ##In Terminal##
 #Load files into folder Proteomes
@@ -941,3 +942,13 @@ niche.pca.plt2=pca.dist %>%
   geom_point(size = 3) + ggrepel::geom_label_repel(aes(label=Indicator), fill= alpha(c("white"),0.5), segment.color="white", color="black", segment.curvature=0.3, box.padding = 0.5)+ background_grid()+guides(label="none")+theme_dark()+scale_color_manual(values = c("red", "blue", "green", "yellow"))+theme(legend.text=element_text(color="white", size=15), legend.background=element_rect(fill="grey50", color="white"))+guides(color="none", shape="none")+theme(text=element_text(size=20))+xlab("PC1")+ylab("PC2")
 
 niche.pca.plt+inset_element(niche.pca.plt2, 0.39, 0.335, 1, 1)
+
+#Centered, nested proportional area charts
+#Data from Mulder and Wessels 1986
+sc_dat <- read.csv("Input/SC hydrophobin expression data.csv") %>%
+  pivot_longer(cols=c("Expression", "Total"), names_to="Category", values_to="Values") %>%
+  mutate(Category=as.factor(Category)) %>%
+  mutate(Category=factor(Category, levels=c("Total", "Expression")))
+
+ggplot() +
+  geom_circle(aes(x0 = 1, y0 = 1, r = sqrt(Values), fill = Category), data = sc_dat)+theme_void()+facet_grid(cols=vars(Hydrophobin), rows=vars(Type), switch="y")+coord_fixed()+geom_label(x=sqrt(40), y=1, aes(label=paste(Values, "%", sep="")), size=10, data=sc_dat %>% filter(Category=="Expression"))+theme(text=element_text(size=40), legend.title=element_blank(), legend.position="bottom", strip.text.y=element_text(margin=margin(r=10)))+scale_fill_viridis_d()
