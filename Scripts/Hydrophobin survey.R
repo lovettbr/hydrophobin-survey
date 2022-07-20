@@ -286,7 +286,7 @@ C.stat.excluded2=C.stat.excluded %>%
   mutate(Groups=str_c(Candidates.6C, Pfam.Hyd1, Pfam.Hyd2, sep="/"))
 
 ####Pfam inclusion####
-#Proteins in batches of secreted or not-secreted were annotated using PfamA.hmm via hmmscan
+#Proteins in batches of secreted or not-secreted were annotated using PfamA.hmm via hmmsearch
 
 secreted_pfam <- read.table("Proteomes/Pfam/secreted_pfam.out", quote="\"")
 colnames(secreted_pfam)[c(1,3:5)]=c("Accession", "Pfam_name", "Pfam", "Eval")
